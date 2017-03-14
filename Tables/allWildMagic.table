@@ -1,0 +1,1072 @@
+01 Wall of force appears in front of caster
+02 Caster smells like skunk for spell duration
+03 Caster shoots forth eight non-poisonous snakes from fingertips. Snakes do not attack
+04 Caster's clothes itch (+2 to initiative) [Note: +2 to initiative is a penalty to initiative in 2nd ed rules]
+05 Caster glows as per a light spell
+06 Spell effect has a 60 ft. radius centered on caster
+07 Next phrase spoken by caster becomes true, lasting for 1 turn 
+08 Caster's hair grows one foot in length
+09 Caster pivots 180 degrees
+10 Caster's face is blackened by small explosion
+11 Caster develops allergy to his magical items. Character cannot control sneezing until all magical items are removed. Allergy lasts 1d6 turns.
+12 Caster's head enlarges for 1d3 turns
+13 Caster reduces (reversed enlarge) for 1d3 turns
+14 Caster falls madly in love with target until a remove curse is cast
+15 Spell cannot be canceled at will by caster
+16 Caster polymorphs randomly
+17 Colorful bubbles come out of caster's mouth instead of words. Words are released when bubbles pop. Spells with verbal components cannot be cast for 1 turn.
+18 Reversed tongues affects all within 60 ft. of caster [in 2nd ed. reversing tongues either cancels existing tongues effects, or confuses verbal communication in the area of effect]
+19 Wall of fire encircles caster
+20 Caster's feet enlarge, reducing movement to half normal and adding +4 to initiative rolls for 1d3 turns
+21 Caster suffers same spell effect as target
+22 Caster levitates 20 ft. for 1d4 turns
+23 Cause fear with 60 ft. radius centered on caster. All within radius except caster must make a saving throw
+24 Caster speaks in a sqeaky voice for 1d6 days
+25 Caster gains X-ray vision for 1d6 rounds
+26 Caster ages 10 years
+27 Silence, 15 ft. radius centers on caster
+28 10 ft. x 10 ft. pit appears immediately in front of caster, 5 ft. deep per level of the caster
+29 Reverse gravity beneath caster's feat for 1 round
+30 Colored streamers pour from caster's fingertips
+31 Spell effect rebounds on caster
+32 Caster becomes invisible
+33 Color spray from caster's fingertips
+34 Stream of butterflies pours from caster's mouth
+35 Caster leaves monster-shaped footprints instead of his own until a dispel magic is cast
+36 3-30 gems shoot from caster's fingertips. Each gem is 1d6 x 10 gp
+37 Music fills the air
+38 Create food and water
+39 All normal fires within 60 ft. of caster are extinguished
+40 One magical item within 30 ft. of caster (randomly chosen) is permanently drained
+41 One normal item within 30 ft. of caster (randomly chosen) becomes permanently magical
+42 All magical weapons within 30 ft. of caster are increased by +2 for 1 turn
+43 Smoke trickles from the ears of all creatures within 60 ft. of caster for 1 turn
+44 Dancing lights
+45 All creatures within 30 ft. of caster begin to hiccup (+1 to casting times, -1 to THAC0)
+46 All normal doors, secret doors, portcullises, etc. (including those locked or barred) within 60 ft. of caster swing open
+47 Caster and target exchange places
+48 Spell affects random target within 60 ft. of the caster
+49 Spell fails but is not wiped from the caster's mind
+50 Monster summoning II [Monster summoning spells work a bit differently in 2nd ed, and Monster Summoning II is a 4th level spell]
+51 Sudden change in weather (temperature rise, snow, rain, etc.) lasting 1d6 turns
+52 Deafening bang affects everyone within 60 ft. All those who hear must save vs. spell or be stunned for 1d3 rounds
+53 Caster and target exchange voices until a remove curse is cast
+54 Gate opens to randomly chosen outer plane; 50% chance for extra-planar creature to appear.
+55 Spell functions but shrieks like a shrieker
+56 Spell effectiveness (range, duration, area of effect, damage, etc.) decreases 50%
+57 Spell reversed, if reverse is possible
+58 Spell takes physical form of free-willed elemental and cannot be controlled by caster. Elemental remains for duration of spell. Touch of the elemental causes spell effect (THAC0 equal to caster's)
+59 All weapons within 60 ft of caster glow for 1d4 rounds
+60 Spell functions: any applicable saving throw is not allowed
+61 Spell appears to fail when cast, but occurs 1-4 rounds later
+62 All magical items within 60 ft. of caster glow for 2d8 days
+63 Caster and target switch personalities for 2d10 rounds
+64 Slow spell centered on target
+65 Target deluded
+66 Lightning bolt shoots toward target
+67 Target enlarged
+68 Darkness centered on target
+69 Plant growth centered on target
+70 1,000 lbs. of non-living matter within 10 ft. of target vanishes
+71 Fireball centers on target
+72 Target turns to stone
+73 Spell is cast; material components and memory of spell are retained
+74 Everyone within 10 ft. of caster receives teh benefit of a heal
+75 Target becomes dizzy (-4 AC and THAC0, cannot cast spells) for 2d4 rounds
+76 Wall of fire encircles target
+77 Target levitates 20 ft. for 1d3 turns
+78 Target suffers from blindness
+79 Target is charmed as per charm monster
+80 Target forgets
+81 Target's feet enlarge, reducing movement to half normal and adding +4 to all initiative rolls for 1-3 turns
+82 Rust monster appears in front of target
+83 Target polymorphs randomly
+84 Target falls madly in love with caster until a dispel magic is cast
+86 Small, black raincloud forms over target
+87 Stinking cloud centers on target
+88 Heavy object (boulder, anvil, safe, etc.) appears over target and falls for 2d20 points of damage
+89 Target begins sneezing. No spells can be cast until fit passes (1d6 rounds)
+90 Spell effect has 60 ft. radius centered on target (all within radius suffer the effect)
+91 Target's clothes itch (+2 to initiative for 1d10 rounds)
+92 Target's race randomly changes until canceled by dispel magic
+93 Target turns ethereal for 2d4 rounds
+94 Target hastened
+95 All cloth on target crumbles to dust
+96 Target sprouts leaves (no damage caused, can be pruned without harm)
+97 Target sprouts new useless appendage (wings, arm, ear, etc.) which remains until dispel magic is cast
+98 Target changes color (canceled by dispel magic)
+99 Spell has a minimum duration of 1 turn (i.e., a fireball creates a ball of flame that remains for 1 turn, a lighting bolt bounces and continues, possibly rebounding for 1 turn, etc.)
+100 Spell effectiveness (range, duration, area of effect, damage, etc.) increases 200%
+000	Adonis, god of beauty, appears before you. He has taken a liking to you he touches your face & increases your already good looks. +5 to CHA. He states, “Remember, beauty is ever fleeting. Olympus is watching you…” He vanishes into the heavens. 
+001	You summon forth a tiny blue rabbit that sounds like a frog and smells like a cat.
+002	Your right foot withers into nothingness.
+003	Fireball damage: 3d6+4. d20+4 vs Reflex of all in burst 3 centered on you. Miss: half damage.
+004	You just don't feel quite right; have that heavy sinking feeling as if you are falling into yourself. You implode!! There's a sickening wet smack sound. Take 2d6+6 damage, return in #rds=to damage taken.
+005	The Magic affects you instead of the desired target.
+006	The Magic affects your entire party instead of the desired target.
+007	An elephant suddenly appears in front of you, explains that he’s very sorry he didn’t show up earlier and wanders off humming.
+008	Small meteor impacts within 1d4 squares of you, 6d6 damage burst 20; d20+5 vs Reflex. Miss, half dmg.
+009	Snowfall; 40 square radius centered on you. The snow continues to fall for 1d4 hours.
+010	Fire & brimstone rain from the sky, 40 square radius centered on you for 1d4 Rounds. Chance of starting fires, 0-61%. All in range take 5d6 damage/Round. 30% chance set flammables on fire on person.
+011	The Spell draws half of your HP from you and has quadruple effect. 
+012	A live explosive appears at your feet. Will detonate in 1d6 Seconds. Burst 3. 4d6 damage to all in blast area. D20+5 vs REF. Miss, half dmg.
+013	A Cloud of Smoke 6 square cube centered on you appears. Lasts one minute. All in cloud have total concealment. All in cloud are considered blind as well.
+014	A Cloud of Acid 6 square cube appears around you. Immediate 5 Acid damage to all and 5 ongoing damage while in cloud. Once out of cloud save ends ongoing damage.
+015	You get Happy Feet. Cannot do anything else except dance & prance for 1d4+1 Rounds.
+016	Your right arm falls off. No wound, as if you were never born with it.
+017	You permanently grow a pair of small 4" horns on your forehead. Dark red color. –2 CHA.
+018	Your right eye pops out of its socket & hangs swinging by its nerve thread. –2 CHA.
+019	You gain an Action Point that only is lost thru actual use of it.
+020	You & all your party members with equipment shrink to 6 inches tall. For 1d6 Rounds.
+021	You find yourself surrounded by 1d100 rats. 
+022	You feel something went wrong, looking up a 3 bedroom, 2 bath, kitchen, dinning room, den, living room & 2 car garage house is descending rapidly toward the spot you are standing on. D20+8 vs Reflex. Fail = 6d6 damage. (Hope no one you like is near you).
+023	The earth rumbles for 1d4 minutes 60 square radius. All roll Balance Check during each Round in affected area.
+024	Spell works normally.
+025	The true name of the person next to you is revealed, but they also get to know yours. 
+026	Your left lung implodes, 6d6 Hit Points damage. D20+6 vs Fortitude. Fail = –5 to DEX & CON. –5 to all Physical Skills. Hold breathe time is cut by half.
+027	A Red Dragon swoops down to have you and your party for a snack.
+028	One random member in your party looses all their possessions & equipment. They simply vanish.
+029	Lightning hits your target. D20+10 vs Reflex. Burst 3. Damage 2d12
+030	Spell fizzles…………subtract 1d4 HP.
+031	Spell is delayed for 1d3 Rounds and has half effect. 
+032	Nothing happens.
+033	You feel a tug at your heart. A curse was placed on it. You know it will stop functioning in 1d4 weeks. Remove Curse spell will fix it.
+034	“Telegram” says a well dressed Bell-hop all in red. He gives you a telegram, tips his hat and leaves. It states: “Good luck in your next action. We suggest it be a dodge. Signed; Best Wishes from the Luck & Improbability Guild.” You look around; a huge bladed pendulum is swinging low to the ground in your direction. D20+10 vs Reflex. Fail = 4d6 damage.
+035	From now on you can call yourself weird. You grow a third eye on your forehead. As a result of this mutation you can see the aura of other persons if you spend 1 HP. 
+036	The smoke clears, you find yourself in front of The Bad Man himself, Le Diablo. “I’ll send you back, fully recovered,……..for a price of course…ha, ha, ha………” Refuse, your dead.
+037	You are transformed into a Peacock for 1d8 hours. 
+038	A field of “Poppies…..Poppies….Poppies….” 20 square radius spring up around you. D20+7 vs Will. Fail = Laying down in the field, falling into a deep sleep (Sleep). Lasts 1d4 days. 
+039	A loud bang with the strength of thunder booms from above you and a new roll for Initiative has to be made by any person standing in burst 10 of you including you.
+040	Spell acts normally.
+041	Your skin is turned transparent (-6 CHA) lasts for 1d8 days.
+042	You are turned red in color for 1d6 weeks.
+043	All of your belongings (real estate included...) are turned yellow for 1d4 minutes.
+044	All party members are Astral Projected from their bodies for 1d6 Rounds.
+045	A squid (a big one) lands on your head and starts to strangle you, damage 1d6/Round. AC 18; 200 HP. 
+046	Dinner’s served for all persons within 50 ft. (A real banquet with servants and all...)
+047	All of your left toes wither into nothingness. –5 to SPD, DEX and Acrobatics, Athletics skills.
+048	1d12 Zombies rise from the ground to attack you.
+049	A random person within 10 squares from you is transformed into a bat and flies off to a better suited place in order to sleep. The person is permanently transformed, and only a remove curse can return them to normal life, if the person is found... 
+050	An Assassin is now out to kill you, but you know this.
+051	The laws of reality forget the action you just did; it is a free action.. 
+052	“What happened…” (GM’s Choice).
+053	You pass out for 1d6 minutes but the Action still has the desired effect though it can’t be cancelled... 
+054	“Whose there…” You summoned something really nasty…(GM’s Choice).
+055	You levitate 10ft up. Lasts 1 minute/your level. No flying or moving in any direction is possible. Tethered to rope, you can be pulled along like a balloon.
+056	You get an additional qualifying Power for 1 day. Roll 1d4: 1=At Will; 2=Daily; 3=Encounter; 4=Utility
+057	A monster insect appears within 1d4squares and attacks the nearest person. 
+058	“BUCK YOU!!!” You now have a nice rack of 12 point antlers growing from your head. STR of 17+ to keep your head up & not fall over. Balance check periodically, to see if you fall over. May be sawed off or Remove Curse spell. Will grow normally until removed by Magic. If 17+ STR may keep & gain Bull Rush Feat free with +1d12 of damage.
+059	Heavy rainfall (1 square burst) centered on you, lasts for 1d3 days. The cloud is constantly 30ft directly above your head.
+061	Suddenly you know Ritual create Lightning Bolts!!! Does 8d6 damage. Saving Throw: None. Costs 100gp Arcana components per Bolt. May only make 1 per day. May only have max of 5 on hand.
+062	Spell fizzles………subtract 1d4 HP.
+063	You grow a beard, 2 ft long, permanent. 
+064	Spell acts normally.
+065	As you feel the ripple of the Magic energies swirling through your conscious mind, something goes wrong. You forget the incantation for 1d4 weeks. But the desired Spell works as it should’ve, it’s just that it does not have the usual effect... (The Spell has five times as high effect and also burns 3x1d100 Experience Points...) 
+066	6d6 lesser demons appear to attack you.
+068	“Help! Help! I’m being repressed….” Sir Arthur, King of the Britain’s, appears before you & tells you, “Stop it…..be quiet, old man.” He disappears. You are so dumb struck, can not speak for 1d6 days.
+070	An energy bolt (4d6 damage, d20+10 vs REF) suddenly shoots out from your left ear and hits the nearest object to your left (be it person or possession...)
+071	Your skin turns neon-purple for 1d6 hours. (Glow in the dark).
+072	“Spider sense tingling…” turned into Medium spider 1d4 weeks. You retain your self.
+073	As the Spell looses its effect you feel something pulling your very genes and in a moment’s notice you find your self transformed into a cute little piglet (1d3 months). 
+074	Your left arm & right leg trades places.
+075	Now you know how it feels to be left alone... You teleport 1d100 miles in random direction, but lucky as you are you appear on the ground... 
+076	You gain an Action Point that only is lost thru actual use of it.
+077	You ain’t me, or are you!?! A doppelganger of yourself is instantly created 5 ft away from you. The creature pays its humble respect and wanders off to see the world. 
+078	A random party member’s right toes exchanges places with their right fingers.
+079	Receive one Fate Point.
+080	A spark, a crack and BOOOOM! Explosion centered on you does 4d6 damage and decreases with 1d6 damage for 3 square radius from center of burst. 
+081	You are dead, unless you spend one Fate Point. (If none, divine/demonic intervention is possible, GM’s discretion.) 
+082	A Magic ring turns up on your index finger (+1 vs Spell Magic, permanent). 
+083	Your right toes exchanges places with your right fingers.
+084	2d20 palm trees grows up around you. 
+085	A random party member’s right hand exchanges places with their right foot.
+087	A Mountain Giant invites you to dinner…………as the main course, that is. Will take you by force.
+088	You find a love potion at your feet. (If taken, +2 CHA.)
+089	A random party member gets one Fate point.
+090	2 square radius pillar of earth rises up beneath you 20 feet into the air, roll for balance, & anyone else caught in this. If you are successful, you stay on top.
+091	Your head explodes, unless you spend one Fate point. (If none, divine/demonic intervention is possible, GM’s discretion.)
+092	You receive superhuman strength. STR=30, CON=24, & +30 Temp HP for 1d6 hours. 
+093	A Weaken spell was cast on you. –1d4 to STR.
+094	A black cat comes up to you and says she’s sorry. 
+095	“Whose there…” You summoned something really nice…(GM’s Choice).
+096	For a moment you thought you knew... But the Spell still keeps coming, you repeat the Spell 1d4 times in the same Round. 
+097	A fully equipped armed squad of 6 Coalition Soldiers appear in front of you. AC 25, 50 HP. Weapons: Laser Rifle 2d6 damage. They are not happy about being summoned here. Roll percentile for each soldier: 01-50%, will attack your enemy. 51-100%, will attack you & your party. Once combat has ended with original foes or they are killed they disappear.
+098	An Addle Mind spell was cast on you. –1d4 to WIS.
+100	A Jinn, a green one, appears and grants you three wishes... 
+101	You grow roots and cannot move for 1d4 minutes, unless someone cuts off your feet of course... 
+102	May repeat 1 random Daily Power in same day once.
+103	You asked for it... Spell effect x6. 
+105	Death himself comes to claim you. You can try & talk him out of it or make a deal…..????
+106	Your left kidney implodes, 6d6 HP damage. –1d6 to CON & DEX.
+107	You’re blessed by some chaotic supernatural entity and receive one extra fate point plus a random curse (permanent, but can be removed). 
+108	“……and to you I leave………A boot-to-the-head.” TTTHHUUDDD!!! “And one for the wimp next to you.” TTTHHUUDDD!!!. You both take 2d6 damage to the head.
+109	Gezundtheit! You catch a very, very bad cold (lasts for 1d4 weeks). 
+110	“Be afraid,………be very afraid…….” Of what or whom???? Roll for Phobia.
+111	You no longer emanate Magic aura. You retain all Magical skills, senses, knowledge, Spell casting, etc… You appear as a normal being to all others & devices.
+112	Heavy storms appear from nowhere and last for 1d3 days, affects a radius of 1d4 miles from where you stood when the Spell was cast.
+113	“In your face, Dude!!!” Your spell explodes in your face, doing 1d10 damage.
+114	The person next to your right grows a pair of frog’s legs, permanently, unless of course they pass the D20+8 vs Will (Can be removed). 3xNormal Jump.
+115	Every spell you cast for the next 1d4 Rounds, you will loose 1d4 Hit Points.
+116	You find yourself in a splendid golden chain mail teleported from the nearest king’s ransom.. 
+117	You can’t take it anymore, you are overcome with grief. All you can do is sit down and cry for the next 1d6 days until you get it out of your system. (There, there now….feel better?)
+118	1d4 skeletons rise from the ground to do your bidding. 
+119	You feel a lump in a pocket. You investigate to pull out a grenade with the pin missing……..??? BBBBOOOOOOMMMMMM!!!!!!!!!!! You take 6d6 damage & all others in a close burst 4 take 2d6 damage. D20+10 vs REF. Miss: take half damage.
+120	Was it like that, or? For the moment you can’t remember the Spell, try again next Round. 
+121	The gods are for you, gain +1 to FORT, permanent.
+122	The earth around you is turned into mud. Burst 4, 1 foot deep. Permanent. 
+123	The gods are against a random party member, loose 1d10 HP’s permanent.
+124	Snowfall, 1d100x10 yards radius, centered on the nearest person, not you! 
+125	You suddenly see the world from a different point of view, a rat’s that is. You are now a rat. You retain control of your self. Lasts 1d12 days.
+126	The Magic you performed seems to have defied the laws of reality and bends all light that hits you for the next 1d6 hours, you are invisible even to yourself... 
+128	For 1 Round a strange oval black disc hangs in the air in front of you and then it disappears (dimensional gateway to...????) 
+129	A random party member is injured by that last spell. They roll for Injury.
+130	You lapse into a Sleep for 1d8 days. 
+131	You were scared “shitless”. Can not defecate for 1d6 weeks. Got that “bloated” feeling.
+132	Your very next critical hit does max of all dice and modifiers involved.
+134	A stone Golem rises from the ground and is ready to fulfill your wishes the best it can.
+135	The gods are against you. –1d100 to Experience, permanent.
+136	The Spell draws half of your CON. Gain 1 back/day. 
+138	Until now it wasn’t all that hard but since you cast that Spell... You have itchy rash for 1d3 weeks. 
+139	Hi, Ho, Let’s go! Your speed is doubled for 1d3 days.
+140	You feel stiff all over & it is getting worse…………you are now a stone statue. You are aware of all about you just can’t move, speak, well you are a statue until someone comes by with a Remove Curse spell to cast on you. Hope your friends really like you, the pigeons do.
+142	The Spell costs half your INT. Gain 1 back/day. 
+143	The gods are with you, +1d4 to CON, permanent.
+144	The Spell Mute is laid on the nearest person to you. Cannot speak or make a sound 5 minutes/your level.
+145	The gods are with a random party member, +1d4 to INT, permanent.
+146	You accidentally summon 1d6 lesser devils, that aren’t very happy ‘bout being dragged from their own dimension. 
+147	A potion appears at your feet…??? (GM’s choice).
+148	You find yourself equipped with an old scythe. 
+149	An Assassin is now out to kill a random party member, but you know this.
+150	You grow an extra right thumb. 
+151	1d20 goblins appears around you. They have taken a dislike to you. Bite, 1d6 damage. Claw, 2d6 each damage. Clubs, 3d4 damage. HP’s =50. AC 15.
+152	A demon lord needs you in his stable and offers to make you a witch/warlock, you may decline but...???? 
+153	Nosebleed. Loose 1 HP/minute. Will last 5d10 minutes. (If HP reaches 0, bleeding stops.) Healing will not stop this bleeding. HP will only recover normally.
+154	You grow fangs 6 inches long (2d6 bite damage). 
+155	“Whose there….????” You summoned something really nasty…(GM’s Choice).
+156	Your Spell went??? Roll 1d10. 1-2 hits target, 3-4 goes left of target, 5-6 goes right of target, 7-8 goes straight up, 9-10 hits you. 
+157	A Stone Golem rises up to kill you & party.
+158	“INCOMING!!!” One of the “lost” cruise missiles from “Desert Storm” impacts over head. Raining death, fire, & destruction in a Burst 10 doing 4d10 damage to all. D20+10 vs REF, Miss: Half damage. 70% chance of starting fires.
+159	A potion appears at a random party member’s feet…??? (GM’s choice).
+160	One of your permanent damages is mystically healed, if you don’t have any permanent damage roll for one! 
+161	The very next encounter, your dailies become At-Wills.
+162	Spell acts normally. 
+163	You blink out of existence for 1d12 minutes. You materialize back in the same spot as you were before.
+164	“Telegram!”, shouts a well dressed bell-hop all in red. He singles you out & gives you the telegram, tips his hat & walks away. The message reads: “Sorry to inform you that your great-uncle, Sir Hector Aliwishes Smitterstone III, on your mother’s side, twice removed, has left this realm. He is not expected back any time soon (as we have buried him 2 weeks ago). Being the sole heir, you have inherited all his credits, castle, estate & possessions (of this realm only). Must be in London, England within 30 days of receipt of this telegram to receive inheritance at the Law Offices of Cheatem, Stealem, Swindle, & Sly. If not, all is forfeited to whatever current government (or bad ass) is in charge at the time.”
+165	A random party member suddenly feels “a change a commin’ on.” Roll for new Alignment.
+166	An unusual dog like creature comes up to you and wets your left leg. Doing 2d6 acid damage. Will continue to do 5 ongoing damage (save ends) If eats thru armor or no armor must make d20+9 vs Fortitude Save. Fail = hopping around on left leg looking for nearest water source.
+167	A random party member feels dumber, -1 to INT
+168	You feel smarter, +1 to INT.
+169	A random party member’s right arm falls off. No wound, as if they were never born with it.
+170	Hercules descends from the heavens and obliterates all your foes with his bare hands. “Now, that’s how’s its done.” He states. You & all party members are covered in a light blue light, briefly. “None of this sissy weapon-play……….”, he says as he bounds into the heavens. All get +2 to STR.
+171	A random party member feels slower, -5 to SPD.
+172	A gigantic hand descends from the sky & gathers up the whole party. (No Saving Throw). The hand sits them down gently………?????(Where ever the GM chooses.)
+173	Your right toes exchanges places with your left fingers.
+174	Your Spell went off as you expected, however nobody’s ranged weapons are working. Friends & Foes’ alike. Lasts 1d4 Rounds. (Roll twice, 1 for Friends & 1 for Foes….This could be interesting……hee, hee)
+175	A random party member feels prettier, +1 to CHA.
+176	You grow the legs of a black goat. Permanent. +2 to Speed. May be removed by a remove curse.
+177	A random party member’s right toes exchanges places with their left fingers.
+178	Your right ear falls off, -1 to CHA.
+179	A random party member feels weaker, -1 to STR.
+180	You asked for it….You got it…..All party members increase one level!!!
+181	A random party member feels mentally challenged, -1 to INT.
+182	Spell fizzles....subtract 1d100 Experience.
+183	The gods are for a random party member, gain +1 to WILL, permanent.
+184	You accidentally throw a fireball at one of your friends.
+185	You asked for it….You got it…..You decrease one level!!!
+186	You turn one of your animal companions into a blue rocking chair, if you do not have any animal companions; see 001. 
+187	A random party member feels more agile, +1 to DEX.
+188	A Magic box 12 inches long by 6 inches wide by 6 inches thick of holding comes into your possession. May only hold item or items equal to the size or less of the box. When opened, looks empty.
+189	You get an additional qualifying Power for 1 day. Roll 1d4: 1=At Will; 2=Daily; 3=Encounter; 4=Utility
+190	You are permanently blinded in left eye. 
+191	A random party member is dead, unless they or you spend one Fate Point. (If none, divine/demonic intervention is possible, GM’s discretion.)
+192	You’re on adrenaline! You go berserk for 1d4 minutes slashing out at anyone within 10 squares. 
+193	Your target, living or not, disappears………gone where???????
+194	You make the nearest dragon very offended by revealing their true name to everyone within 15 squares. You better find a good hideout... 
+195	Spell works normally, however you’re now violently allergic to that spell. If attempt to use it again or is cast on you, begin to sneeze uncontrollably.
+196	You got yourself so down you got you a headache. Migraine, permanent. (-1 to all Skills, 30% chance of occurring when in a stressful situation).
+197	“Stampede!!!” A very large (1000+) herd of Texas Longhorn Steers is now stampeding in your direction. 
+198	A community of black army ants explains it’s loyalty to you.
+199	Spell acts normally.
+200	You draw 1 HP from all within 5 squares added to your HP’s permanent. Magic Users get a d20+your level vs Will save. The 1 HP loss is permanent.
+201	A scribe appears and wants to do the story of your life, he’s very hard to get rid of and won’t take no for an answer. 
+202	The target of your Spell is instantly and permanently turned into a turtle (a negate Magic may restore him/her).
+203	You are turned into a gelatin mass equal to your weight & mass. Lasts 1 hour.
+204	The only thing that happens is you & your target loose 1d10 HP’s.
+205	You turn out to be holding a beer glass after all, filled to the tip of course. 
+206	1d100 Large (2 ft wide 1 ft thick body) spiders surround you. They are trying their little hearts out to encase you in a web cocoon. Saving you for a later snack.
+207	Your Spell is delayed for 1d4 weeks, but you’re not quite sure of that... 
+209	The target of your Spell explodes, and dies instantly. 
+210	You find a ring in your pocket. When worn it does……??? GM’s choice.
+211	A hippopotamus walks by ignoring you. 
+212	A random party member’s left lung implodes, 6d6 Hit Points damage. D20+6 vs Fortitude Save. –2 to DEX & CON. –2 to all Physical Skills. Hold breathe time is cut by half.
+213	2d20 bottles of the finest red wine appear at your feet. 
+214	A very ornate large door appears before you. It opens, revealing a well dressed butler. Past him you see a large ballroom with elegant ladies & gentleman. He says, “Aw, good of you to come, sir. We have been expecting you, won’t you come in..??” 
+215	"You don’t have to say you love me. It’s all right, ‘cause honey I don’t care." A concubine materializes in front of you and insists on giving you PLEASURE!!! 
+216	A random party member’s right hand exchanges places with their left foot.
+217	The surrounding area (100 square radius) is turned into a desert. 
+218	Roll for Injury.
+219	You lose 1d4 to HP, permanently. 
+220	A random party member feels smarter, +1 to INT.
+221	You gain a fate point but this also makes you think "What’s it all about?" and you reverse your alignment for 1d6 months and maybe, just maybe, you’ll like it. 
+222	Spell fizzles………subtract 1d100 Experience.
+223	Gradually you see your left hand wither into nothingness. 
+224	A random party member’s left eye pops out of its socket and hangs swinging by its nerve thread.
+225	Don’t keep it all inside! You pour all of your heart & soul into this Spell. Triple effect, you pass out for 1d6 Rounds.
+226	The gods are with you, +1d10 to HP, permanent.
+227	Roll twice on this table. 
+228	The gods are for a random party member, gain +1 to REFLEX permanent.
+229	You realize what’s bugging this Spell and from now on it is never unstable anymore. 
+230	After battle, you notice an irritating itch on your chest. You see a small runny sore. Take 1 Hit Point of damage. A curse of some kind was placed on you. Each day it gets a little bigger. You will loose 2 HP/day, cannot regenerate HP until curse removed. This cannot be cured by any other means. 
+231	A window opens in mid air in front & above you. An old man in night shirt and cap holding a candle yells down at all, “Quiet!!! I’m trying to sleep here!!” Everyone stops and looks up. “That’s better!!” He goes inside & closes window which disappears instantly. All Re-Roll Initiatives.
+232	A random party member feels less durable, -1 to CON.
+233	You’re deafened (for 1d10 Rounds) by the sound of this Spell which strangely enough only you seem to have heard... 
+234	The very next encounter, your dailies become At-Wills.
+235	A bone flute-playing fairy accompanies you for a 1d4 days. 
+236	Spell acts normally.
+237	As you cast the Spell you burst into flames for 1d4 Days. Get +7 to AC, punch/kick does 3d6 fire damage, & 01-61% setting flammable items on fire by touch. You & equipment are not harmed.
+238	A random party member feels less confident, -1 to WIS.
+239	A mad count has you contracted for assassination without apparent reason, but the good thing is that you’re aware of it. 
+240	“PUCK YOU” you become a hockey puck for 1d4 days. Spell works normally.
+241	You find yourself equipped with bat-like wings making it possible for you to glide up to 1 mile under good conditions. The wings fall off after 1d3 weeks. 
+242	“Oooohhh!!………this is gonna hurt.” You suddenly find your self in the middle of an arena with a multitude of people cheering. You are dressed in strange light armor complete with helm and a colorful cloth covering. You are holding a leathery large elongated egg-like bladder, brown with two white stripes & laces. You feel the ground tremor a bit as you look to see 12 other large men clad as yourself but their cloth & helm is different color than yours. They are at a full running charge at you. Roll 1d12 to see how many hit you then take body block/tackle damage of 1d6+4/each. After getting mangled you appear back where you were.
+243	Gradually you see your right hand wither into nothingness.
+244	GM’s Choice…………….???????????
+245	An angry minor Earth Elemental rises from the ground to kill your party. 
+246	Spell acts normally.
+247	You forget how to read for 3d4 days. 
+248	A random party member feels less healthy, -1d6 to HP.
+249	One of your Insanity’s is Magically cured, if you have none then it’s time to roll for one now. D20+5 vs WILL. 
+250	A random party member gets one Fate point.
+251	A maddened tribe of trolls set out in order to make dinner of you, but in some strange way you’re aware of their plans and can act accordingly. 
+252	“Whose there….????” You summoned something really nice…(GM’s Choice).
+253	You set the nearest forest ablaze. 
+254	Your left toes exchanges places with your left fingers.
+255	A unicorn offers to become your steed. 
+256	A random party member’s left arm falls off. No wound, as if they were never born with it.
+257	You’re mistaken for a wanted person in the next town you enter. 
+258	“I don’t feel so good………BBBLLUUKK!!…….SPLOSH!…” A random party member vomits violently for 1d6 Rounds. Looses DEX to AC.
+259	Exactly the desired Spell, gain 1d100 Experience. 
+260	Spell acts normally.
+261	A random person within 30 ft is knocked down, if there’s no-one around you’re down instead. 
+262	The gods are against the party. All get –1d10 to HP, permanent. (Each player rolls)
+263	Instead of a Spell a big green toad crawls out of your mouth and hops off. 
+264	A Steel Golem rises up to kill you & party.
+265	Your eyes are turned into a neon pink liquid for 2d4 hours.
+266	A random party member feels uglier, -1 to CHA.
+267	You slip/trip & fall. Loose Initiative & subject to prone attacks. 
+268	You and all of your equipment you have on, shrink to 6 inches tall. Remove Curse to return to normal. But this may not be to bad after all.
+269	You receive a natural AC of +5 since your skin is turned into iron scales for 1d6 days. 
+270	A random party member’s left toes exchanges places with their left fingers.
+271	The next person you tell your name will instantly attack you, but you know it. 
+273	May repeat 1 random Daily Power in same day once.
+274	“Gone cuckoo??”. For the next 1d6 weeks, every hour on the hour, a Cuckoo Bird ejects from a random party member’s mouth to “cuckoo” the hour. (Like a Cuckoo Clock) Loose Stealth, Shadow Walk, Sneaking, etc. when this happens. Will give away position when sounds.
+275	Everything you touch for the next 2d6 hours starts to burn. Except the gear you have on.
+276	You and the entire party with all equipment, shrink to 6 inches tall. Remove Curse to return to normal. But this may not be too bad after all.
+277	A phantom footman turns up with a ghostly coach & horse team. He’s holding the coach door open, bows gracefully. “At your service, sir……” (One way ride to????)
+278	Your right foot feels burning hot. You look down a gremlin just gave you a “hot foot”, he runs away laughing. Your foot is on fire, 1d6 damage + 3 ongoing fire damage until save ends. You can do nothing else except trying to put your foot out.
+279	1d6 of your party members, d20+7 vs WILL, if they fail they’ll fall into a mindless frenzy and go berserk for 1d4 Rounds slashing out at anyone within 3 squares of them. 
+280	A random party member with all of their equipment they have on, shrink to 6 inches tall. Remove Curse to return to normal. But this may not be to bad after all.
+281	Spell acts normally. 
+282	A random party member grows a beard, 2 ft long, permanent.
+283	2d12 hungry tigers surround your target. HP=25, AC=15, Claw=1d6 each, Bite=2d6.
+284	The earth beneath your feet opens up and you fall 30 feet down a hole taking 3d10 points of damage. After two minutes the hole closes and if you’re still there; only the gods can Save you.
+285	A well is created beside you. 
+286	A potion appears at a random party member’s feet…??? (GM’s choice).
+287	All of your belongings, except holy and rune weapons, are lost. The items just disappear in thin air. 
+288	“Be afraid,………be very afraid…….” A random party member is afraid of what or whom???? Roll for Phobia.
+289	A random party member gets one Action Point that only is lost thru actual use of it.
+290	Your left arm & left leg trades places.
+291	Spell hits target & ricochets???? Roll 1d10: 1-2 ricochets to you, 3-4 ricochets to targets left, 5-6 ricochets to targets right, 7-8 ricochets to targets front, 9-10 ricochets up.
+292	Your right eye pops out, hanging by the organ connections.
+293	A bouquet of flowers spring forth from your out stretched arms. Spell does half effect & smells good too. 
+294	Your very next critical hit does max of all dice and modifiers involved.
+295	You hallucinate for 1d12 months, the hallucinations is completely up to the all powerful GM. 
+296	“Tea time.” All stop what they are doing (friends & foes) & sit down to a table with cups, saucers, sugar bowl, cream, etc. that wasn’t there before. A butler serves everyone a great cup of tea. Last 15 minutes. All resume their places & re-roll Initiative to resume battle.
+297	You are dead, unless you spend one Fate Point. (If none, divine/demonic intervention is possible, GM’s discretion.) 
+298	1d10 gallons of way to old milk splashes down your body. 
+299	A random party member’s left hand exchanges places with their left foot.
+300	When you cast the Spell you accidentally touched the soul of a nearby animal and it becomes your familiar. 
+301	Maggots infest your brain and you must magically remove them or die within three weeks. 
+302	“Whose there….????” You summoned something really nasty…(GM’s Choice).
+303	The Magic energies didn’t quite leave this world when you were finished with them, instead it hung on to you and from now on your hair always stand straight up, your handshake jolts and static electricity sparks appear on your body now and then. This also makes you to only suffer half the damage from electrical attacks. You literally glow in the dark... 
+304	Find Heal Potion. Heals 20hp.
+305	1d4 Beasts (greater devils) are mistakenly summoned and these gentlemen aren’t very happy about it... 
+306	Spell acts normally.
+307	Diarrhea hits you like a lightning strike from a clear sky. Lasts for 1d8 hours.
+308	A random party member gets a Nosebleed. Loose 1 HP/minute. Will last 5d10 minutes. (If HP reaches 0, bleeding stops.) Healing will not stop this bleeding. HP will only recover normally.
+309	A famous witch/warlock hunter starts taking interest in your affairs... 
+310	Your right kidney implodes, 6d6 HP damage. –1d4 to CON & DEX.
+311	Spell works well. Unfortunately the same Spell also shot out both your ears to hit whoever or whatever is on either side of you.
+312	A well, 2 square radius, opens up beneath your feet, you fall 30 feet into water. Hope you can swim.
+313	Spell works just fine!! +5 to the damage/benefit.
+314	A random party member's brain becomes infested with Maggots; must magically remove them or die within three weeks.
+315	1d12 Mighty Oak trees spring up in front of you like a wall. Each 6 foot thick.
+317	Grow an extra left thumb.
+318	Your hands exchanges places.
+319	You gain an Action Point that only is lost thru actual use of it.
+320	Your right middle finger falls off.
+321	That Spell went off without a hitch. You were so impressed with your self, you became speechless for 1d4 Rounds (cannot cast Spells). Time to pull that weapon of yours…………..
+322	A random party member's right middle finger falls off.
+323	A random person within 10 squares falls in love with you, no matter how strange it may sound. 
+324	The gods are with you, +1d10 to HP’s, permanent.
+325	Roses, red, red roses start growing from your ears. Falls off after 2d3 weeks. 
+326	A random party member's hands exchanges places.
+327	You’re the guy from wonderland, or so it may seem since your pockets started to always be filled with golden coins. Same as fools gold, lasts for 1d4 weeks. 
+328	A random party member grows an extra left thumb.
+329	You feel less durable, -1 to CON.
+330	A random party member feels more durable, +1 to CON.
+331	You cannot sleep or rest properly for 1d3 weeks and in that time you recover HP’s at half rate.
+332	A Brass Golem rises up to kill you & party.
+333	2d12 Zombies rise up to do your bidding.
+334	Your body becomes infested with all kinds of parasites that can literally be seen crawling all over your body, lasts 1d6 weeks. –4 to CHA.
+335	Your right index finger falls off.
+336	From this day on someone or something looks out for you and in some strange way you always seem to have your back covered. Cannot be caught Flat-footed.
+337	A random party member becomes a hand size rock for 1d6 days. They are aware of what is happening around them.
+338	A random party member's right index finger falls off.
+339	You are turned to stone where you stand. May be moved. Remove Curse to fix.
+340	A Gnome comes up to you and asks what’s wrong with that stone circle a few hundred yards away. 
+341	A pool of quicksand happens to open up under a random party member's feet. Lasts one hour, sinks at the rate of 6 inches/Round, once under will drown/suffocate in four minutes unless hold breath longer. 97% undetectable in swamp, 79% outdoors, & 30% indoors.
+342	You seem to have caught a rather common deadly disease; PLAGUE!!! (Bubonic Plague that is) unless properly treated you’ll die within three weeks. 
+343	A beautiful pearl necklace with a medium size gem appears around your neck. Nice, huh? But, the gem seems to be ticking……???
+344	You notice the pink little hedgehog sitting on your head and at the same time you loose your initiative. 
+345	The Magic affects you instead of the desired target.
+346	A moose comes up to you and whisper in your right ear: "You can’t hear this with your left can you?" When he has said this he looks at you for a moment and wanders off mumbling. 
+347	A potion appears at your feet…??? (GM’s choice).
+348	1d10 small fireballs (damage 1d6 each) erupts from your face and flies in random directions; 30% chance of hitting anyone within 20 squares. 
+349	Diarrhea hits a random party member like a lightning Strike from a clear sky. Lasts for 1d8 hours.
+350	You grow a permanent exoskeleton (like a beetle) Natural AC of +5, -4 CHA. May be removed by a remove curse. 
+351	You become a normal black Labrador Retriever. You can speak & retain control of yourself. Remove Curse to restore yourself. You gain all the abilities (and disadvantages) of a dog. SPD +10, Track +10, Recognize Scent +10, Canine Language, +15 to Spot, Listen, & Search. Small Creature. STR 14, CON 14, DEX 20, WIS 18, INT 18, CHA 20. See in black & white only, Lowlight vision. Claw 1d4, Bite 1d6.
+352	1d8 skeletons rise from a nearby grave to do your bidding. 
+353	1d8 skeletons rise from a nearby grave to kill you.
+354	Smile sucker! The corners of your mouth get stuck and you look a bit like the Joker. 
+355	You “wet” yourself. Spell acts normally.
+356	You know the exact location of the nearest Magic Pool! 
+357	“YOU LITTLE PUSSEY!!” (no not the one you’re thinking). You are now a cute, cuddly kitten. Can speak & retain yourself. Lasts 1d6 weeks.
+358	All plants within 6 squares tries to kill you for 1d6 minutes.
+359	Your right ring finger falls off.
+360	A Shadow Beast turns up from nowhere and attacks you and your friends. 
+361	You find a ring in your pocket. When worn it does……??? GM’s choice.
+362	You feel slower, -5 to SPD.
+363	A random party member feels faster, +5 to SPD.
+364	By some unexplained reason you cast the Spell; Metamorphosis: Insect, on yourself and see the world from a snails’ point of view for 1d8 Rounds 
+365	A random party member blinks out of existence for 1d12 minutes. They materializes back in the same spot as they were before.
+366	Your head is turned backwards for the first time in your life (!) and pleased as you are to see your own behind, it becomes quite uncomfortable for 1d6 weeks. 
+367	A random party member's right ring finger falls off.
+368	Spell works, well sort of…………. –5 to the damage/benefit.
+369	A giant hand reaches out of the sky grabs a random party member (no Save Throw) and takes to….???? (Anywhere GM wants you to go.)
+370	You grow a 10" long red nose, permanent. May be removed by a remove curse. 
+371	Spell fizzles………-1d100 Experience.
+372	A church organ materializes 60 ft above your head and decides to fall on you, if a perception roll of 17 or higher is made a d20+10 vs REF Fail = suffer the wrath of a god in the shape of 4d6 points of damage. 
+373	A random party member is injured by that last spell. They roll for Injury.
+374	A Wind Rush Spell also hits your target. 60 mph wind 5 squares wide by 24 squares long. Balance Check of 18 for those caught in it. All caught in it cannot attack or move forward. Small objects may be blown d20+4 squares away. Lasts 1 Round + 1 Round to recover.
+375	“Telegram” says a well dressed Bell-hop all in red. He gives a random party member a telegram, tips his hat and leaves. It states: “Good luck in your next action. We suggest it be a dodge. Signed; Best Wishes from the Luck & Improbability Guild.” You look around; a huge bladed pendulum is swinging low to the ground in your direction. D20+10 vs Reflex. Fail = 4d6 damage.
+376	Now you’ve really done it. Your Magic has upset the very forces of nature. 1d8 minor elemental turns up to give you and your party a lesson you may not be able to forget. 
+377	Your right little finger falls off.
+378	An eternal flame is instantly created where you stand. 
+379	You suddenly feel “a change a commin’ on.” Roll for new Alignment.
+380	Just as you thought all was lost, here comes “The Lost Battalion” from WWI charging to the rescue. With all their fire power, they do only 2d6 HP damage to each of your foes. They go charging off into the distance & disappear. (GM’s discretion can have all re-roll Initiatives.)
+381	A little demon appears, shakes your left hand. Walks away with a demonic giggle, chewing on something. You check your hand & one of your entire appendages is missing. Roll 1d10: 1-2 thumb, 3-4 index finger, 5-6 middle finger, 7-8 ring finger, & 9-10 little finger. –2 to Strike if finger is missing when using right hand. Can not hold weapon if thumb is missing.
+382	A pygmy choir steps out from hiding, sing folksongs for 1d6 minutes, bows respectfully and departs chanting. 
+383	You get an additional qualifying Power for 1 day. Roll 1d4: 1=At Will; 2=Daily; 3=Encounter; 4=Utility
+384	Your right leg turns out to be made of pine-wood. Permanent. May be removed by a Remove Curse or a saw...
+385	A random party member gets one Fate point.
+386	The very next encounter, your dailies become At-Wills.
+387	Roll for Injury.
+388	A full size portrait of you is delivered by a messenger shortly after the Spell has been cast. 
+389	Spell acts normally.
+390	You and all others within 6 squares are instantly teleported to a location totally alien for the party. (GM’s Choice).
+391	A Weaken spell was cast on a random party member. –1d4 to STR.
+392	A Stench of Hades is cast on you by a passing seagull that flies off laughing. Affects burst 2 with foul smell. 1d6 damage/Round in area, 01-50% of vomiting once/Round (loose Initiative, -4 to AC while vomiting). Everyone else, -2 to AC, & to Hit. Does not affect those protected from gases. 
+393	A random party member: “I don’t feel so good………BBBLLUUKK!!…….SPLOSH!…” You vomit violently for 1d6 Rounds. Can only Dodge without any bonuses.
+394	A 200 ft long chain appears on the ground. 
+395	A random party member's right little finger falls off.
+396	Suddenly you find yourself surrounded by a pack of 2d4 frenzied hungry northern timber wolves. 
+397	You asked for it….You got it…..A random party member decreases one level!!!
+398	You inherit a large estate from a senile Baron. This is told to you by a messenger that also asks you to attend the funeral which will be held soon. 
+399	The gods are against you, loose 1d100 Experience permanent.
+400	An Iron Golem steps up to you and explains that he’s ready to serve you now. 
+401	A random party member gets one Action Point that only is lost thru actual use of it.
+402	All of a random party member’s right fingers wither into nothingness. –5DEX& CON.
+403	You are permanently blinded in right eye 
+404	A random party member's right leg turns out to be made of pine-wood. Permanent. May be removed by a Remove Curse or a saw...
+405	A random party member’s left kidney implodes, 6d6 HP damage. –1d6 to CON & DEX.
+406	A person in your vicinity random is reduced to 6" tall. Permanent. A negate Magic may restore the victim to a normal life. 
+407	A random party member is turned into a gelatin mass equal to their weight & mass. Lasts 1 hour.
+408	A greater demon is accidentally summoned by you, the thing is just that this gentleman isn’t cooperative at all and has no understanding for your excuses... 
+409	Spell fizzles………subtract 1d100 Experience.
+410	Fleas are now a part of your small universe. 
+411	A well, 2 square radius, opens up beneath your feet, you fall 30 feet into Acid. You take 1d6 acid damage/Round.
+412	From this day and for one week forward all of your Crafting Spells cost only half of the normal amount!!! 
+413	Your right thumb falls off.
+414	Your hair is turned white as chalk. Permanent. 
+415	A random party member's right thumb falls off.
+416	Your Head is now permanently invisible. Any clothing/armor/equipment put on it becomes invisible. Can not be detected by any means. You can have it replaced with cybernetics only to be visible again.
+417	A random party member’s left arm falls off. No wound, as if they were never born with it.
+418	All persons (including you) within 40 ft are turned completely yellow (possessions too) for 1d3 days. 
+419	You become aware a “Predator” wants a random party member’s skull & spine for his collection.
+420	A light-brown snake bites you in your left knee. It is a non-poisonous snake. –1 HP.
+421	The gods are with you, +1d10 to HP, permanent.
+422	You instantly double your INT! (Lasts one hour).
+423	Spell acts normally.
+424	A Pegasus appears and if you are of a good alignment it offers to be your steed. 
+425	1d100 giant hungry grizzly bears appears among you all. Bite, 1d6 damage. Claws, 1d8 each. Weight = 500+ each. 8-10 ft tall. HP=50 each. Will attack anyone or anything until all are dead.
+426	You scorch yourself on the cold blue Magical flames that suddenly engulf you as you burn all of your current CON & pass out. Gain 1 CON/day. The terrible scars left on you by this horrible experience reduces your CHA by 1d6 permanently. 
+427	A random party member gets hyped up on adrenaline & goes berserk for 1d4 minutes slashing out at anyone within 10 squares.
+428	Spell fizzles....subtract 1d100 Experience.
+429	Your left foot withers into nothingness.
+430	A giant hand reaches out of the sky grabs you (no Dodge) and takes only you to….???? (Anywhere GM wants you to go.)
+431	A random party member “wets” them self. Spell acts normally.
+432	A hard-core goblin child attacks you from behind with a crude cudgel, will flee if he suffers any damage. 
+433	A random party member is attacked by a whole nest of wild bees. The attack lasts for 1d6 Rounds.
+434	13 common pixies make yours and your friend’s life miserable for 2d20 hours. 
+435	A random party member's body becomes infested with all kinds of parasites that can literally be seen crawling all over their body, lasts 1d6 weeks. –4 CHA.
+436	Lightning Strikes the tallest person in your vicinity, it might even Strike you... (damage: 6d6). 
+437	A random party member finds a Heal potion. Heals 20hp.
+438	Amnesia hits you like a hammer and you can’t even remember who you are for 4d6 hours. 
+439	You get an additional qualifying Power for 1 day. Roll 1d4: 1=At Will; 2=Daily; 3=Encounter; 4=Utility
+440	A Terminator makes you his enemy and comes looking for you! In some strange way you’re aware of it. 
+441	Your right arm & right leg trades places.
+442	Every stone within a 10 square radius starts jumping in all directions, if there are boulders present they might even hurt someone unless a d20+5 vs REF is made each Round (damage 2d6). The stones stop jumping after 3d6 Rounds. 
+443	May repeat 1 random Daily Power in same day once.
+444	The Spell just cast is permanently doubled in all aspects.
+445	A flock of 200 +1d100 geese fly down & around everyone within 100 yards asking all which way is South? –5 to AC & to Hit until they are killed or leave.
+446	A random party member has caught a rather common deadly disease; PLAGUE!!! (Bubonic Plague that is) unless properly treated they will die within three weeks.
+447	“YOU LITTLE PUSSEY!!” (no not the one you’re thinking). A random party member is now a cute, cuddly kitten. Can speak & retain them self. Lasts 1d4 weeks.
+448	A eunuch materializes in front of you and insists on giving you PLEASURE!!! 
+449	A random party member’s head explodes, unless you or they spends one Fate point. (If none, divine/demonic intervention is possible, GM’s discretion.)
+450	“Green with envy???” The Spell works fine, except for you all your party members are green for 1 week.
+451	“Be afraid,………be very afraid…….” A random party member is afraid of what or whom???? Roll for Phobia.
+452	Spell fizzles....
+453	1d100 hungry alligators appears around you……and they are pissed!! Bite, 2d12 damage. Tail, 1d12 damage. 50 HP’s. 20-30 ft long. Weight = 700+. Will attack anyone or thing near to them until dead.
+454	A 12 foot deep, 6 foot wide hole opens up in front of you. There’s a ladder leading down. At the bottom is a colorfully clothed Gnome waving you down, “Quick, this way out…” Do you go? If no, he says, “Oh, well…I tried to help.” He and the hole vanishes. If yes, GM’s discretion as to what happens next……………(hee, hee)
+455	A potion appears at your feet… (GM’s choice).
+456	Join me or... A devil lord offers to make you a wish, you may decline but... 
+457	“Telegram” says a well-dressed Bellhop all in red. He gives you a telegram, tips his hat and leaves. It states: “LOOK OUT!” Signed; Good Luck, from the Luck & Improbability Guild.” You see a World War II Nazi BF-109 Messer Schmidt diving in your direction, guns blazing. D20+9 vs REF you & anyone within 4 squares of you. Fail = 6d8 damage. It disappears. 
+458	Your right ear grows three times larger. Permanent. May be removed by a remove curse. 
+459	“Be afraid,………be very afraid…” Of what or whom???? Roll for Phobia.
+460	You’re transformed into a cute little Yorkshire terrier for GM knows how long... 
+461	A random party member is transformed into a cute little Yorkshire terrier for GM knows how long...
+462	You loose 1d6 inches in height, your clothes & armor amazingly still fit. Spell has no effect. 
+463	Maggots start pouring out your targets mouth. Spell fizzles.
+464	The king in the country you’re in finds you responsible for a plot made against him and sets a reward of 100,000 gold pieces on your head. 
+465	A random party member decides it is time to “hit the showers”. They go bathe.
+466	Mars, god of war, decides to pay you a visit. He really likes a good battle. For some reason he favors you & party members with you. “Here’s something to help increase the sting of battle for you all….” You all can hit better, +1 to Hit for all.
+467	The gods are for the party. All get +1d10 to HP’s, permanent.
+468	Spell works normally.
+470	You grow claws, horrible black non-retractable claws. (damage 2d6+2). Permanent. May be removed by a remove curse, if you find a priest that can be convinced you’re a good guy that is... 
+471	You loose the last Power you just used for a day.
+472	You find yourself dressed in the finest silk garments, but you’ve got no idea of where your armor is. 
+473	Your spleen implodes, 4d4 HP damage. –2 to DEX & CON.
+474	X Y Z or? You are the lucky guy to be instantly teleported 451 yards straight up into the air. And on your way down you have splendid view and hope you’ll live to tell about it. (damage = 10d6). 
+475	Something went very, very wrong. You and all party members receive full damage from last spell cast.
+476	Without any justified reason your left ear turns permanently light blue. May be removed by a Remove curse. 
+477	You notice a necklace round your neck that wasn’t there before. Any way you can’t take it off and as another bonus it gives you a +2 to Will.
+478	A potion appears at a random party member’s feet…??? (GM’s choice).
+479	A river of lava, 6 squares long, 3 squares wide, & 5’ deep stretches out from you in the direction you were looking when the Spell was cast. 2d6 damage/Round in lava. 5 ongoing fire when exit. Save ends
+480	Spell fizzles.....
+481	Your left foot feels burning hot. You look down a gremlin just gave you a “hot foot”, he runs away laughing. Your foot is no fire, 1d6 damage + 5 ongoing fire damage (save ends). You can do nothing else except trying to put your foot out.
+482	You find a key in your pocket. 
+483	A random party member’s right eye pops out of its socket and hangs swinging by its nerve thread.
+484	A raving specter starts terrorizing you and your party. 
+485	“TRUCK YOU!!!” You are turned into a toy Tonka dump truck. Lasts 1d4 days.
+486	A minor air elemental offers you its help. 
+487	“Oooohhh!!………this is gonna hurt.” A random party member suddenly find him/herself in the middle of an arena with a multitude of people cheering. You are dressed in strange light armor complete with helm and a colorful cloth covering. You are holding a leathery large elongated egg-like bladder, brown with two white stripes & laces. You feel the ground tremor a bit as you look to see 12 other large men clad as yourself but their cloth & helm is different color than yours. They are at a full running charge at you. Roll 1d12 to see how many hit you then take body block/tackle damage of 1d6+4/each. After getting mangled you appear back where you were.
+488	“A game of chess, hmmm...?”, asks a nearby tree. 
+489	The gods are against you, loose 1d6 HP’s permanent.
+490	Gain +1 Heal Surge, Permanent. 
+491	You can feel the rhythm even before you can hear the wonderful music. A Magical Dance affects the entire party. Cannot do anything else except dance & prance for 1d4+1 Rounds.
+492	A pack of trappers’ mates selects you to be their next victim. 
+493	You gain an Action Point that only is lost thru actual use of it.
+494	You find a dagger in your boot. 
+495	Spell acts normally.
+496	Spell has only half effect and duration. 
+497	Your next Standard Action is treated as a Free Action.
+498	You feel faster, +2 to SPD.
+499	Spell fizzles………
+500	Fate sees you as a promising investment and awards you an extra fate point but reminds you of his existence by making you forget the Spell you just was about to cast, so that you won’t bother him again... 
+501	A pool of quicksand happens to open up under your feet. Lasts one hour, sinks at the rate of 6 inches/Round, once under will drown/suffocate in four minutes unless hold breath longer.. 97% undetectable in swamp, 79% outdoors, & 30% indoors.
+502	A random party member Gains +1 Heal Surge, Permanent.
+503	A warriors arm and sword in another part of the Palladium world happens to slash through a hole in space hitting you instead of its intended target. You get a really good close-up of a Dwarven-made broadsword taking 1d8+4 points of damage in the process. +8 to Hit. 
+504	A random party member becomes a normal black Labrador Retriever. (SEE #351)Can speak & retain control of their self. Remove Curse to restore them.
+505	A random party member’s right arm & left leg trades places.
+506	Since no-one at the Magic college told you ‘bout wa’ll ‘appen ‘f ya don’ watch i’ you cast the Spell on yourself.
+507	For a moment you seemed to be getting away with it, but... Your Spell backfires and goes off in the opposite direction.
+508	A random party member gets one Fate point.
+509	Your left toes exchanges places with your right fingers.
+510	You grow webbed hands and feet. Permanent. Swim +10 checks. 
+511	A random party member gets one Action Point that only is lost thru actual use of it.
+512	You feel a tug at a random party member’s heart. A curse was placed on it. You know it will stop functioning in 1d4 weeks. Remove Curse spell will fix it.
+513	A well dressed violinist steps out from a shadow and plays a song for you, when he’s finished he bows, turns around and implodes. 
+514	You loose an Action Point.
+515	A passing frog stops to tell you to behave or he’ll... 
+516	All of your right toes wither into nothingness. –5 to SPD.
+517	You drop all of your teeth in your upper left jaw. 
+518	“Telegram” says a well dressed Bell-hop all in red. He gives you a telegram, tips his hat and leaves. It states: “Look behind you. Signed; Salutations from the Luck & Improbability Guild.” You look, behind you is Cyborg with laser pistol pointed at your back. +8 to Hit. 6d6 damage. (GM’s choice, the Cyborg can disappear after attack or you can have him stick around & fight on with your stats, of course.)
+519	Your head shrinks to half of its normal size. Permanent. May be removed by a remove curse. 
+520	An Iron Golem rises up to kill you & party.
+521	You see the Spell take effect and then everything goes black for a few seconds. When you open up your eyes again you are standing in a long 20 ft wide, 100 ft long corridor which has its walls lined with strange chairs, two on each side. Every chair has a strangely clothed human in it, 120 person all in all. They all stare at you, mouths wide open. Through small oval windows on the walls you can see clouds and you can hear a distant humming sound, you have a strange door to your right. After ten seconds everything goes black again and you’re back to where from you disappeared. 
+522	An Addle Mind spell was cast on a random party member. –1d4 to WIS.
+523	You feel weaker, -1 to STR.
+524	A random party member feels stronger, +1 to STR.
+525	You grow a hairy tail, 3 ft long. Permanent. May be surgically removed. 
+526	You find a ring in your pocket. When worn it does……??? GM’s choice.
+527	A bunch of flowers, different types, 24 all in all. Appear before your feet with a card. The card reads: " We humbly apologize for not telling you to duck earlier... Love: The council of most unbelievable and unpredictable accidents." If you look up when you’ve read this you see a gray stone made windmill falling directly on you from the sky. D20+8 vs REF or suffer 6d6 points of damage.
+528	The gods are for a random party member, gain +1 to FORT permanent.
+529	You loose control of yourself and your brilliant GM can do as he/she pleases with your character for 1d4 Rounds...
+530	A random party member’s spleen implodes, 4d4 HP damage. –2 to DEX & CON.
+531	Roll three times on this marvelous table. 
+532	A potion appears at a random party member’s feet…??? (GM’s choice).
+533	You feel less confident, -1 to WIS.
+534	A random party member feels more confident, +1 to WIS.
+535	One of your present random companions turns into a black goat for 1d4 days unless they make a d20+5 vs Will.
+536	A well, 1 square radius, opens up beneath a random party member's feet, they fall 30 feet into water. Hope they can swim.
+537	Suddenly you realize that you’re blasted on Dwarven moonshine. (-4 to all Skill Checks and WIS) You’re drunk for 1d12 hours and have terrible a hangover for 1d8 hours with half of the penalties. 
+538	A random party member's left leg turns out to be made of pine-wood. Permanent. May be removed by a Remove Curse or a saw...
+539	A eunuch materializes in front of a random party member and insists on giving them PLEASURE!!!
+540	Your next Standard Action is treated as a Free Action.
+541	A shrubbery a few yards away warns you of a nearby band of Orcs. Actually true, but far too late. 10 Orcs step up to your party and explain that they’re going to eat you for supper. (Low level mercs.) 
+542	A random party member is injured by that last spell. They roll for Injury.
+543	You feel dumber, -1 to INT.
+544	The very next encounter, your dailies become At-Wills.
+545	You reverse your speech for 1d3 hours. (Spells act in reverse, as well).
+546	“PUCK YOU” A random party member becomes a hockey puck for 1d4 days. Spell works normally.
+547	A person in your vicinity random grows a skin colored one foot long crooked horn on their forehead (ram attack does 1d6 damage). Permanent. May be removed by a remove curse. 
+548	Your target is turned to stone where they stand. May be moved. Remove Curse to fix. If non-living or area it will be turned to stone as well.
+549	The next stranger you talk to will mistake you for an old friend. 
+550	Death himself comes to claim a random party member. They can try & talk him out of it or make a deal…..????
+551	You’re attacked by a whole nest of wild bees. The attack lasts for 1d6 Rounds. 
+552	“They call him The Streak……” A random party member is now buck ass naked. All armor/clothing is now gone. Spell acts normally.
+553	A rat offers to be your pet, if you’re prepared to feed it with one pound of cheese a week. 
+554	Nothing happens.
+555	A Steel Golem offers his friendship.
+556	You grow a pointed chin. Permanent. 
+557	Spell acts normally.
+558	You find yourself surrounded by 1d100 venomous snakes 6 feet long.
+559	Your left eye turns jet black. Permanent. 
+560	A random party member's lung capacity expands without being harmed. Can now hold breath for 10 minutes. Spell fizzles....
+561	You appear to have been awarded with an armor of Ithan, but you don’t know for how long...+15 to AC (1d6 hours). 
+562	The Magic affects a random party member instead of the desired target.
+563	A zombie rises from the ground to do your bidding. 
+564	Your very next critical hit does max of all dice and modifiers involved.
+565	You notice a small chest full of gold and jewelry standing a few feet from you. The gold is real and it is worth 250,000 Gold Pieces. 
+566	A random party member’s right lung implodes, 6d6 Hit Points damage. Fortitude Save. –5 to DEX & CON. –5% to all Physical Skills. Hold breathe time is cut by half.
+567	A respected noble claims that you owe him 560,000 Gold Pieces and sets a reward of 50,000 Gold Pieces to anyone who can bring you before him alive. You become aware of this when you see your own picture posted in the next town you enter. 
+568	Spell fizzles………..
+569	Your next Standard Action is treated as a Free Action.
+570	A potion appears at your feet…??? (GM’s choice).
+571	You find yourself in a black small room. You can see light peering in from a crack in what might be a door. If you open the door you realize that a cupboard must have materialized around you. The cupboard is of good quality and has several sets of fine tailored clothes in it, which amazingly fit you. 
+572	May repeat 1 random Daily Power in same day once.
+573	A raven considers itself to be your pet. 
+574	You decide it is time to “hit the showers”. You leave to bathe.
+575	The next sword that hits your body will simply slide through and you will not suffer any damage. 
+576	The gods are against a random party member. –1d10 to HP, permanent.
+577	You turn yourself into a Silver-Crested Cockatoo for 1d4 days, but retain your self-control. 
+578	You feel as if “A weight has been lifted off your shoulders.” Your head falls off. You are not killed, strangely. Your head rolls 1d12 feet away. You now have to direct your headless body to come and “pick you up” to get your “head screwed on straight.” (Soccer anyone..?? hee. hee..)
+579	The Spell you cast will repeat itself at the same time of day for 3d6 days. 
+580	Your target grows another left arm.
+581	You gain one Spell same nature of Spell cast, the Spell works normally.
+582	You permanently decrease your Experience by 6d6 points.
+583	You permanently increase your Experience by 6d6 points. 
+584	Your right arm & left leg trades places.
+585	You feel less healthy, -1d6 to HP.
+586	A random party member feels more healthy, +1d6 to HP.
+587	The Magic energies are warped and directed at you instead and your body starts to burn taking 1d6 of damage for 1d6 Rounds.
+588	A random party member’s nose and anal opening exchanges places. Remove Curse to fix. -5 CHA
+589	Your left leg turns out to be made of pine-wood. Permanent. May be removed by a remove curse or a saw...
+590	Roll for Injury.
+591	Whoops! You loose your balance and fall to the ground, which means that the Spell didn’t work and you loose the initiative. Try again next Round. 
+592	Spell fizzles….
+594	A Dark Wizard invites you for tea.
+595	A strange pine tree appears in front of you. It is highly decorated as if part of some strange ritual. If you examine it closely you can see small dolls hanging from its branches featuring a bearded man in red clothes. Burning candles also line the branches. Under the tree there are some packages in multicolored paper... 
+596	“Be afraid,………be very afraid…….” A random party member is afraid of what or whom???? Roll for Phobia.
+597	Somehow you didn’t quite understand how it was you were supposed to pronounce those last words... Spell is certainly not the desired one, GM’s choice. 
+598	Spell acts normally.
+599	Your next Standard Action is treated as a Free Action.
+600	A small apple tree materializes in front of you. It is about 6 ft high and planted in a large pot. The tree has a glittery aura and if examined closer by a Magic user it will radiate powerful Magic, in fact the whole tree is extremely Magic. The tree monthly grows 1d6 red glass-like apples each containing 50 Experience Points. The tree has to be kept in a suitable environment or it’ll die. This plant is of a Magic, practiced by the Titans and some Elves and Dragons during the elf-dwarf wars, long forgotten called; "Th’aghf Zathciuwa’gh Ghathyur’eigh" or " The way of the trees". If not treated properly the tree will die. Once the apples are picked they will last for centuries. There are no cores in the apples, once each century the tree will grow one green apple (containing 2000 Experience Points !!!) that can be planted to yield another 1d8 trees. 
+601	A passing dragon decides it is time for his late supper... 
+602	A random party member’s left kidney implodes, 6d6 HP damage. –1d4 to CON & DEX.
+603	"Just who do you think you are!!? GET OFF MY HEAD!!!" Screams a stone from under your boot and gives you the evil eye. (Not the psionic or curse. GM note.)
+602	A random party member is dead, unless they or you spend one Fate Point. (If none, divine/demonic intervention is possible, GM’s discretion.)
+605	A well dressed lawyer approaches you, "According to Ch. 28 § 143 Lines 3 to 8 In the Book of Death and Damnation 267’th Ed. you are hereby condemned to eternal suffering in the plane of Hades, please follow me squire.", he states. A Baal Rog (greater demon), steps out from hiding and asks you to accompany him through the black oval disc hanging in the air a few yards away. He may settle for a deal negotiated by the lawyer. If you refuse he says he WILL take you by force...
+606	All of a random party member’s left fingers wither into nothingness. –5 to DEX
+
+607	Just as you cast your Spell, someone yells, DUCK!! The Spell goes off, but you don’t feel yourself. You look down and see duck feet & legs instead of your legs & feet!! Your arms are now wings, you notice an orange bill where your mouth was…etc….etc. Get over it!! You are a duck! A big duck!! At your original height & weight. Good news is all related swim/water skills are at +10 & you can fly & you gain Aquatic Birds Language Skill. Bad news, lasts 1 week. Really Bad news, a lot of creatures, things, & people will want to eat you….for real. (You retain yourself. You can talk like Donald Duck. All physical skills –10, unless “bird” related…..ha..ha..hee…hee)
+608	A random party member gets one Fate point.
+609	You feel stronger, +1 to STR.
+610	Spell acts normally.
+611	You threw that Spell so hard, it did double damage. However, severe pain in your right shoulder & arm. You dislocated your shoulder, Fortitude Save. Arm is useless until fixed. –2 to all stats. –10 to all Physical Skill checks. 
+612	The gods are with a random party member, +1d10 to HP’s, permanent.
+613	Roll to Save vs Curse: Cravings; Moose dung. 
+614	A “Stargate” opens nearby for 30 seconds.
+615	A random person in your vicinity is affected by the Spell as well.
+616	A Wooden Golem rises up to kill you & party.
+617	Without any justified reason your right ear turns permanently light blue. May be removed by a Remove curse.
+618	Your very next critical hit does no damage.
+619	A potion lies before you on the ground. (Fairy’s Dance).
+620	Death himself comes to claim you & the entire party. Can try & talk him out of it or make a deal…..????
+621	The whole party is suddenly in a desert. You can hear the sound of a distant battle raging through the air. If you look closer you can see a battle going on in a valley. There are only humans that are part of this battle. (GM: The characters have been teleported to 900 A.D Middle East Crusades.) The group will remain in this dimension for 1d4 days and will then be teleported back to the same place and time as they left. 
+622	A random party member finds a ring in their pocket. When worn it does……??? GM’s choice.
+623	Spell works well. Unfortunately the same Spell also shot out your left ear to hit whoever or whatever is on that side. 
+624	A random party member blink outs of existence for 1d12 minutes. They materialize back in the same spot as they were before.
+625	A fireball is also directed at your target. 
+626	A random party member’s left toes exchanges places with their right fingers.
+627	You learn a new Spell random that of course is unstable and this also makes one of your other Spells unstable random, the problem is just that you don’t know which one... 
+628	The gods are with a random party member, +1d10 to HP, permanent.
+629	A snake (typical for the terrain) offers to be your pet. 
+630	Spell fizzles………subtract 2d12 Experience.
+631	A random party member’s left foot feels burning hot. They look down, a gremlin just gave them a “hot foot”, he runs away laughing. Their foot is no fire, 1d6 damage + 3 ongoing fire damage (save ends). They can do nothing else except trying to put the foot out.
+632	Nothing happens.
+633	You asked for it; effect level x2!
+634	You hear a whistling sound above... A shell from a WWII howitzer is dimensionally teleported to the world and explodes 20 feet above your heads. Spreading shrapnel burst 20. 60% chance of taking 3d6 points of damage. 30% chance of starting a fire. You are deafened for 1d6 minutes, if you survive that is.
+635	"You have only one question, but you may ask me anything I will answer truthfully." Says a voice in your head and before your mind’s eye you can see an old bearded man in a red silk robe standing before you and you notice that time seems to have stopped. 
+636	Your arms & legs trade places.
+637	A nearby cemetery is accidentally affected by a powerful raise the dead Spell producing 10d8 skeletons that set off to terrorize the countryside. The creatures will kill all living beings that get in their way. 
+638	Heal Potion appears at your feet. Heals 10+twice your level.
+639	Your Left Leg & Foot is now permanently invisible. Any clothing/armor/equipment put on it becomes invisible. Can not be detected by any means. You can have it replaced with cybernetics only to be visible again.
+640	Nothing happens.
+641	A blow worm surfaces 30 yards away and dives in your direction... 
+643	A bard in a nearby town writes a hit-song about your groups’ heroic deeds, which results that in a year or two each existing group-members’ renown will be increased by one point!!! 
+644	The Assassin’s Guild is now out to kill the entire party, but you know this.
+645	You develop blisters. First on your hands and a few days later your arms. After a week your entire body is covered and the blisters begin to turn into sores. You realize only to late that you have caught the disease; Leprosy. Unless Magically treated you will die in 1d6 weeks.
+646	A random party member can’t take it anymore, they are overcome with grief. All they can do is sit down and cry for the next 1d6 days until they get it out of their system. (There, there now….feel better?)
+647	An order of outcast Magicians in the Wolfen Empire send you their greetings and an invitation to their annual celebration of the Equinox. 
+648	“Who are you..??” Whoever/whatever you are, you become a normal human being for 1d4 weeks with no special abilities.
+649	Your left ear grows three times larger. Permanent. May be removed by a remove curse.
+650	A random party member grows an extra right thumb.
+651	You vomit uncontrollably for 1d6 Rounds producing a strange green foul smelling thick liquid taking 2d4 points of damage directly to your hit points. 
+652	A random party member feels less agile, -1 to DEX.
+653	You feel more agile, +1 to DEX.
+654	A random party member’s right leg falls off. No wound, as if they were never born with it.
+665 You grow another pair of arms. Permanent. May be removed by a remove curse. 
+656	A random party member is turned to stone where they stand. Remove Curse to fix.
+657	A pool of boiling lead is created 10 ft above your head. You are aware of it and may save d20+7 vs REF. If you fail you will suffer 6d6 points of damage.
+658	“Be afraid,………be very afraid…….” Of what or whom???? Roll for Phobia.
+659	A rat crawls up your back and bites you in your left ear and runs off leaving you with an infected wound. You also receive one point of damage. 
+661	Since you weren’t concentrating hard enough the Spell fails. 
+662	Your left hand exchanges places with your left foot.
+663	In some strange way you automatically loose the Initiative. But the Spell works and has double effect. 
+664	“Who are you..??” Whoever/whatever you are, a random party member becomes a normal human being for 1d4 weeks with no special abilities.
+665	A random party member: You just don't feel quite right; have that heavy sinking feeling as if you are falling into yourself. You implode!! There's a sickening wet smack sound. Take 2d6+6 damage, return in #rds=to damage taken.
+666	"Pleased to meet you. Allow me to introduce myself...!" You find yourself in a large damp dining hall at one end of a large oak-table facing a handsome dark-eyed young man. He looks at you and has a sip of his wine, smiles and says: " I have a proposal to make, but first we eat hmm?" The dinner you’re served is the best you’ve had in your entire life, the man small talks during the meal. After you’re finished he personally serves you a glass of vintage wine and asks you to do a favor for him." It is of course voluntary, since I wouldn’t dream of forcing you to do anything against your will." He will not tell you the nature of the favor until you agree. If you refuse he will simply send you back... 
+667	3d6 skeletons rise from their graves to tear your soul apart... 
+668	You gain a +10 to the next roll of your choice.
+669	You grow a 5” high dark crest. Permanent. May be removed by a remove curse. 
+670	You feel…strange. Your armor/clothes/boots feel a little loose the next morning. Does “The Incredible Shrinking Man” ring a bell??. You will decrease in height 1d6 inches/day until you find a way to stop & reverse the process.
+671	From this day on you can’t remember anything from certain full-moon nights since you suffer from Lycanthropy (Werewolf). Permanent. May be removed by a remove curse. 
+673	A peach tree starts growing in one of your bags. 
+674	Instead of the desired Spell, a parachute flare shoots up. Lights burst 10 for 1 minute.
+675	A thunderstorm builds up in the surrounding countryside and rages for 1d4 days. 
+676	The gods are against the party. All get –1d10 to HP’s, permanent.
+677	A random party member gets a +10 to next roll of choice.
+678	Roll percentile. That’s how much of a random party member’s Gold Pieces disappear.
+679	A five mile long 200 yards wide 500 yards deep hole in the ground opens up a short distance away. Permanent. 
+680	A potion appears at a random party member’s feet…??? (GM’s choice).
+681	The back of your skull is from this day on made of crystal. Permanent. Mind the head, please. May be fixed by remove curse.
+682	The Magic affects a random party member instead of the desired target.
+683	You are instantly turned into a thorny shrubbery with small blue flowers and red berries. You may think and speak. Lasts for 1d6 weeks. 
+684	Magic mushrooms (2d6) spring up at your feet. Eat one??? Effect = roll percentile: 01-25%, +1d10 to HP; 26-50%, -1d20 to HP; 51-75%, +1d20 to HP; 76-100%,-1d10. All effects are permanent.
+685	You feel uglier, -1 to CHA.
+686	Spell fizzles.
+687	You forget your name and profession for 1d4 weeks. (You may even find it strange to eat with a knife and fork. You retain your skills and may react but you are not aware of what you’re capable of). 
+688	Spell acts normally.
+689	A passing butterfly tells you to shut up. 
+690	Your target has angry Killer Bees coming out of their ears. They will attack all in the area. If exposed skin is stung, 1 HP of damage/sting.
+691	Spell acts normally.
+692	Your dead, Dude!!! Death offers you another chance, only if you…??? GM’s discretion.
+693	And you thought that this was the end of it how wrong you were. A god (random, of course) "awards" you with a quest (the nature of the quest is up to the storyteller). You may decline...but?????
+694	You burst into the number of HP’s you have of 3 inch replicas of yourself. (If 75 HP’s there are now 75 3 inch tall replicas of you). For each one of these that get squashed you loose one Hit Point until you “re-assemble” in 1d6 hours. All of you must be within 1 square of where this happened any not there are lost. If only one left, you will come back as normal with only one HP. If none left or not at area, you are dead.
+695	You develop a severe allergy to the subject you were using your Magic on. 
+696	“YOU’RE OUT!!!”, yells an Umpire. All stop, you have no choice except to “sit out” the next 2d4 Rounds on a bench nearby. “Play Ball”, he yells as he disappears. All resume their actions.
+697	You find yourself to be the next victim of a secret death cult located near your home, you are aware of this but you do not have the faintest idea of how you became aware. Today is the perfect day for writing your testimony! 
+698	A beautiful pearl necklace with a medium size gem appears around a random party member's neck. Nice, huh? But, the gem seems to be ticking……???
+699	All of a random party member’s right toes wither into nothingness. –5 to SPD.
+700	A greater elemental of fire sees you as one of the ancient "lost" elemental and in order to help your quest it grants you resistance to all kinds of fire and heat (Magical and non Magical).You also grow the mark of fire on your forehead and your pupils from now on glows with a deep red light. May be removed by a remove curse at 1/3 of normal chance. Resist Fire 10.
+701	Your Spell shatters a nearby window. A big “Mom” figure in house robe, curlers, & green slimy mud-pack on her face sticks her head out. There’s a baseball in her hand. She yells down for all to here. “All right, who broke m’ window??!! Someone’s goin’ pay fer it, fess up, now.!!!” All, friend & foe stop & look at her, then each other. All scatter, running away not wanting to be blamed. End of battle.
+702	A random party member feels as if “A weight has been lifted off their shoulders.” Head falls off. They are not killed, strangely. Their head rolls 1d12 feet away. Now have to direct their headless body to come and “pick their head up” to get their “head screwed on straight.” (Soccer anyone..?? hee. hee..)
+703	Spell acts normally.
+704	A potion appears at your feet…??? (GM’s choice).
+705	Your hands and lower arms are turned into a oozing yellow liquid for 1d3 minutes. If the liquid is not "at its place" after this period you may from this day on consider yourself a cripple. (May roll percentile 1-10 = no effect, 11-30 = loss of 1d10 fingers, 31-60 = loss of hands, 60-90 = loss above wrists, 91-100 = loss at elbows).
+706	You asked for it….You got it…..A random party member increases one level!!!
+707	Suddenly you feel an itch on your back. As you scratch yourself you become aware of that something is not as it used to be... You grow 1d12 hand sized green mushrooms on your body. Each mushroom may be removed, but it will inflict 1d3 points of damage directly to your hit points in the process. Good luck. After a month they fall off unless picked. 
+708	Spell fizzles.
+709	The Spell drains you of CON. Pass out for 2d4 Rounds, wake-up with half CON (rounded up). Gain back 2 CON/day.
+710	A random party member’s left arm & right leg trades places.
+711	Your Right Arm & Hand is now permanently invisible. Any clothing/armor/equipment put on it becomes invisible. Same with any weapon held by that hand. Can not be detected by any means.
+712	A random party member is injured by that last spell. They roll for Injury.
+713	The only thing you will remember from this day is that you were about to cast a Spell and that a shimmering turquoise light engulfed you. Your friends on the other hand has a completely different tale to tell: Suddenly you disappeared and were gone until now (1d12 days have passed). No one knows what really happened to you during this time, but you have a strange feeling that someone else can see, hear, smell and feel all that you experience. Sorry but it seems as though you have been abducted by something or someone and been probed... Roll Save vs Random Insanity.
+714	Have gained an Action Point to be used at will. If used in same round with another Action Point, will become Fatigued and Stunned until end of the Encounter. Recover as normal after.
+715	Spell fizzles………-6d6 Experience.
+716	A random party member gets one Fate point.
+717	You feel mentally challenged, -1 to INT.
+718	Your very next critical hit does no damage.
+719	You find your nose turned into 24 carat of solid gold. May be removed by a remove curse, or sold. Lower CHA by 1d3 points. 
+720	A random party member’s left hand exchanges places with their left foot.
+721	You grow gills and naturally you cannot breathe air anymore. You must find water within 3 minutes or die from suffocation. Luckily for you the gills work in both salt and fresh water. (GM’s note: May have well/geyser spring forth nearby as Divine or Magical Intervention for a price to be paid later.)
+722	The gods are against you. –1 to FORT, permanent.
+723	A flash, a puff of smoke and a little pink frog. That is all that remains of your Spell. 
+724	A random party member feels smarter, +1 to INT.
+725	In addition to your Spell you conjure up a wasp’s nest inside your target’s mouth. 
+726	“They call him The Streak……” You are now buck ass naked. All armor/clothing you had on is gone. Spell acts normally.
+727	Desired Spell at twice the effect, normal cost. 
+728	All Powers for the next 1 day are At-Will Powers. Ends at Midnight.
+729	You feel invigorated, +1d6 to HP.
+730	“Curses, foiled again.” You hear your target say as they disappear.
+731	A random curse is cast upon you by the next priest of darkness you encounter.
+732	A random party member's Powers for the next 1 day are At-Will Powers. Ends at Midnight.
+733	When you cast the Spell you also notice that your left thumb is somehow stuck. Curious as you are you discover that a silvery thumbscrew is attached to your thumb. It may easily be removed. 
+734	You just had a sex change. Remove Curse will fix it.
+735	Your Left Arm & Hand is now permanently invisible. Any clothing/armor/equipment put on it becomes invisible. Same with any weapon held by that hand. Can not be detected by any means. 
+736	“TRUCK YOU!!!” A random party member is turned into a toy Tonka dump truck. Lasts 1d4 days.
+737	You suddenly "remember" the exact location of the nearest dragon’s treasure horde, the bad thing is that the dragon knows that you know... 
+738	All of your right fingers wither into nothingness. –2 DEX.
+739	Fate sees you as a promising piece in the game and awards you an automatic successful Dodge/Save against the next supernatural attack directed at you. 
+740	The Magic affects a random party member instead of the desired target.
+741	Your right eye pops out of its socket and hangs swinging in its nerve thread. 
+742	A random party member feels stiff all over & it is getting worse…………he/she is now a stone statue. They are aware of all about them just can’t move, speak, well they are a statue until some comes by with a Remove Curse spell to cast. Hope your friends really like you, the pigeons do.
+743	GET READY TO ROOOCK!!! Spell at ten times the normal damage, range and duration.
+744	A well, 2 square radius, opens up beneath a random party member's feet, they fall 30 feet into Acid. They take 1d6 acid damage/Round + 5 ongoing acid damage when exit (save ends).
+745	You become color blind for 1d3 weeks. 
+746	The gods are for the party. All get +1 to FORT, WILL & REF, permanent.
+747	You instantly triple your WIS for 2d4 Rounds. 
+748	A random party member just had a sex change. Remove Curse will fix it.
+749	A Pegasus offers to be your steed, if you are of a good alignment. An evil character on the other hand finds himself covered with 2d8 hungry tinder spiders. 
+750	May repeat 1 random Daily Power in same day once.
+751	You mysteriously become aware of the workings of the Ritual (random) and may from this day forth consider yourself as knowledgeable in it. Unstable of course. -1d12 on DC rolls.
+752	A little bearded Gnome appears, says “Howdy” & shakes a random party member's hand. He leaves on his merry way laughing & giggling as he goes. When they check, all their coins are gone.
+753	You feel more durable, +1 to CON. 
+754	Spell fizzles……….
+755	The next arrow fired in your vicinity will hit your head. Normal damage. 
+756	Your armor starts “rusting”. Looses 1 AC/day permanent.
+757	A group of wandering pilgrims (3d6) mistakes you for a saint and starts harassing you with prayers, offerings and submission. They will be very hard to get rid of and may act violently when the truth is revealed, depending on their religion of course. 
+758	Your armor becomes totally immune to all damage for 1d6 Rounds.
+759	The world "forgets" you for 1d4 hours and you are practically invisible during this period. 
+760	A random party member's armor starts “rusting”. Looses 1 AC/day permanent.
+761	Your left eye pops out of its socket and hangs swinging in its nerve thread.
+762	“Whose there….????” You summoned something really nice…(GM’s Choice).
+763	Absolutely nothing happens and you loose the rest of your actions for this Round. 
+764	You feel…strange. Your armor/clothes/boots feel a little tight the next morning. Does “The Colossal Man” ring a bell??. You will increase in height 1d6 inches/day until you find a way to stop & reverse the process.
+765	A pack (2d6) of wild Boars are accidentally summoned to a location 100 ft to your left. There is a 75% chance of that these fierce buggers will attack, if this is the case they will attack the nearest humanoid. 
+766	The gods like you, they give you a Fate Point.
+767	Your next Standard Action is treated as a Free Action.
+768	The gods are against a random party member. –1d4 to HP, permanent.
+769	Your very next critical hit does max of all dice and modifiers involved.
+770	A random party member has gained an Action Point to be used at will. If used in same round with another Action Point, will become Fatigued and Stunned until end of the Encounter. Recover as normal after.
+771	Cursed with Lycanthropy. 
+772	The very next encounter, your dailies become At-Wills.
+773	A person to the left of you random will be affected by the Spell "Word of Truth" for the remainder of this day (until sunset) Save vs 15 or higher. If this happens during the night then you will be affected by the Spell "Shadow meld" for 3d6 Rounds Save vs 15 or higher. 
+774	Super Lucky your next Fumble (nat 1 on d20) is transformed into a Critical Hit or Success.
+775	A war horse of the finest breed without any markings is presented to you as a token of eternal friendship by the next noble you encounter. 
+776	“What happened…???” (GM’s Choice).
+777	“BLACK JACK!!!!” You get this number’s digits added together 7+7+7= +21 to your HP permanently.
+778	You become aware of the general location of one of the famous gates to Hades, the bad thing is that the ruler of Hades knows this and has already acted accordingly... The "good" thing is that you know he knows. 
+779	Your left hand exchanges places with your left foot.
+780	An active circle of protection from Magic (strength +2) is created where you stand. 
+781	A random party member suddenly sees the world from a different point of view, a rat’s that is!! You are now a rat. You retain control of your self.
+782	You feel less agile, -1 to DEX.
+783	Your left arm falls off. No wound, as if you were never born with it.
+784	A sketch of you falls to the ground beside you. 
+785	A potion appears at a random party member’s feet…??? (GM’s choice).
+786	A mystic robbed figure walks by you, you gape in awe at the extremely powerful Magic emanating from him/her/or it? It is overpowering, you pass out for 1d4 Rounds. When you awake your current maximum WILL Save is doubled, permanently.
+787	For the next 1d6 weeks, every time a random party member removes any head gear, a large white rabbit appears from it. It is a normal rabbit. 01-50% Male, 51-100% Female. They will mate and produce offspring normally. Or, could have rabbit stew any time wanted. Make rabbit skin jackets, etc.
+788	Lightning Strikes and you suffer 6d6 points of damage.
+789	“BUCK YOU!!!” A random party member now has a nice rack of 12 point antlers growing from your head. STR of 17 to keep your head up. Balance check periodically, to see if you fall over. May be sawed off or Remove Curse spell. Will grow normally until removed by Magic.
+790	You feel something invisible giving pressure from all around your head. D20+15 vs Will or pass out for 1d6 Rounds. Your friends on the other hand witness your head shrink to the size of an apple (i.e. a Granny Smith apple of normal size), the only thing that does not shrink is: 1; your eyes 2; your nose 3; your mouth 4; your ears 5; your teeth 6; your throat. This effect is permanent and will not affect your mental capabilities. May be removed by a remove curse at 2/3 of normal chance. P.B is halved due to the amusing look of your little "doorknob".
+791	GM’s Choice…………….???????????
+792	You’re right ear grows pointed like an Elf’s, if you are an Elf your right ear grows to double size. Permanent.
+793	“Be afraid,………be very afraid…….” A random party member is afraid of what or whom???? Roll for Phobia.
+794	You find a piglet among your gear. 
+795	Spell acts normally.
+797	A random party member is injured by that last spell. They roll for Injury.
+798	You will be aware of the next plot made against you and your friends. 
+799	Spell fizzles……….
+800	Mars, the god of war, sees you as a suitable subject for a new kind of “blessing” The Almighty Warrior. This blessing has the effect of granting you +3 to Damage, Attack & AC. You are notified of his decision by Mercury, god of speed, messenger of the gods, who also explains to you of how to activate this blessing: Turn your face to the sun and whisper "In the name of Mars, warrior god, give me the power!!” This may be used once a week and lasts for one hour. After explaining this to you, Mercury flies off stating, “ We may meet again……….” 
+801	You are covered in a glasslike substance that tightens so much that you cannot breathe. Make roll vs STR to shatter the glass or take 1d6 damage each Round until you are dead. Others may also try to break the glass. HP=65, STR=16. 
+802	The Magic affects you instead of the desired target.
+804	All of a random party member’s left toes wither into nothingness. –5 to SPD.
+805	At the instant you cast the Spell you knew something went wrong, roll twice on this table. 
+806	Loose all your actions in this and next round. May defend normally.
+807	Your Right Leg & Foot is now permanently invisible. Any clothing/armor/equipment put on it becomes invisible. Cannot be detected by any means. 
+806	A random party member is Super Lucky your next Fumble (nat 1 on d20) is transformed into a Critical Hit or Success.
+809	You feel mentally stronger, +1 to STR.
+810	You find a ring in your pocket. When worn it does……??? GM’s choice.
+811	Spell acts normally.
+812	A random party member's little finger falls off.
+814	Spell fizzles.
+815	You find a kitten in one of your pockets, the Spell works normally. 
+816	Your target grows another right arm.
+817	Spell has twice the effect but also affects you with full strength. 
+818	A random party member feels…strange. Their armor/clothes/boots feel a little loose the next morning. Does “The Incredible Shrinking Man” ring a bell??. Will decrease in height 1d6 inches/day until a way is found to stop & reverse the process.
+819	What do you want !?! Says a black Jinn that materializes in front of you and bows. 3 wishes.
+820	A Copper Golem rises up to kill you & party.
+821	Spell hits nearest inanimate object, be it your friend’s armor, sword, etc. or rock, tree, building....which ever is closest to you.
+822	Nothing happens.
+823	You gain 1d6 inches in height, your clothes & armor amazingly still fit. The Spell works normally.
+824	Lightning Strikes and a random party member suffers 6d6 points of damage.
+825	Spell you just cast, you gain the same amount of damage in HP, permanent. 
+826	“You really made an ass of yourself, this time.” You are now an Ass (a Jackass, that is.) You can speak & retain control. Lasts 1d6 weeks.
+827	You lose knowledge of Spell cast, plus the next Spell on list. The Spell has no effect. Lasts during Encounter and the next one.
+828	A random party member gets one Action Point that only is lost thru actual use of it.
+829	Spell works perfectly, does full damage x2.
+830	Your target disappears & re-appears within 1 square directly behind you & gets a free Combat Action.
+831	You instantly change places with target of Spell, just in time for your Spell to hit you or area of target.
+832	You find yourself in a “stockade”. Your head & hands are locked in the holes. Your feet are shackled. HP of 100. STR of 20 to break free. Takes two Actions.
+833	JACKPOT!!!! Everyone within 20 squares of you hears the clanging of a loud bell calling attention to you. Persons close to you see a red light flashing on top of your head. One-thousand gold coins start pouring out of your nose, spilling on the ground bouncing & rolling every where. Each coin is worth 100 Gold Pieces!!! Everyone must make d20+15 vs Will (if they choose to). All who failed (or want to) will dive for the coins & roll Initiative. High goes first. Then roll a percentile or 1d100 to see how many coins they retrieved (if roll is 56, they got 56 coins, total can not be more than 1,000). Rest are considered lost.
+834	A random party member’s left leg falls off. No wound, as if they were never born with it.
+835	The Spell works normally, you immediately get another combat action.
+836	Spell fizzles……….
+838	The gods are with a random party member, +1d10 to HP’s, permanent.
+839	Before you cast your Spell, you suddenly remember this is “laundry day”, so you leave to wash your clothes.
+840	“Telegram” says a well dressed Bell-hop all in red. He gives you a telegram, tips his hat and leaves. It states: “We just learned you have been selected to receive a really big award. It should be arriving…………now! Signed; Congrats All Round, Well Done, Jolly Good & all that. From the Luck & Improbability Guild.” You find your self in a shadow that is growing super-speed fast. You look up, in time to see a round base, 30 ft in diameter descending on your little head. D20+7 vs REF. Succeed, still take half damage. (this is moving fast) Fail = 10d6 damage. On the base is a 30 ft tall hand with middle finger extended. Caption reads, “UP YOURS!! FROM YOUR HATEFUL ENEMIES & ABASSARIES, BAD HEALTH & BAD LUCK IN THE FUTURE.”
+841	You gain a Poltergeist only you can see or hear (no Magic can detect it) for 1d6 weeks. It will pester you and cause mishaps around you, leaving you the blame. Things break, chairs will be pulled out from others, drinks spilled, trip others, etc. 25% chance when enter a room/area, 50% chance/hour while you stay in room/area that Poltergeist will do something. (GM’s Discretion).
+842	Your left leg falls off. No wound, as if you were never born with it.
+843	You become frozen stiff for 1d4 Round’s, however you are totally impervious to any and all damage, your Spell has no effect. Your comrades can use as a shield or ram.
+844	The very next encounter, your dailies become At-Wills.
+845	Grow another right arm, the Spell works normally. 
+846	Spell acts normally.
+847	Your lung capacity expands without harming you. You can now hold your breath for 10 minutes. Spell fizzles....
+848	A random party member is injured by that last spell. They roll for Injury.
+849	You can now summon an entire colony of Fire Ants 1/day to aid you & do your bidding. Your Spell fizzles..... They can only do 1 HP of damage per round of caster. Only if they can get to skin or soft tissue. This does not count as an action for the caster. But summoning is a standard action. Creatures infested with Fire Ants must make a Distraction Save of d20 + casters level vs FORT. Fail = lose that action trying to get the ants off them.
+850	A random party member gets one Fate point.
+851	You are suddenly awe-struck at the beauty of something on the ground (blade of grass, pebble, speck of dust, etc.). You immediately lay down to get a closer look & marvel at its complexity for 1d4 Rounds, the Spell works normally. 
+852	A random party member finds a ring in their pocket. When worn it does……??? GM’s choice.
+853	God of Fate smiles on you once again, you get 1 Fate Point which can be exchanged for resurrection from death. He states, “Now leave me alone.”
+854	“YOU’RE OUT!!!”, yells an Umpire. All stop, A random party member has no choice except to “sit out” the next 1d4 Rounds on a bench nearby. “Play Ball!!!”, he yells as he disappears. All resume Actions.
+855	Thor god of thunder, appears before you & gives you 3 Lightning Bolts that will do 6d6+10 damage each. Automatically hit target when thrown, cannot Dodge. Roll d20 only to see if you get a critical hit of 16-20. Thor thunders, “Use these wisely, we are watching you on Olympus. We may meet again.” He disappears.
+856	A random party member’s left arm & left leg trades places.
+857	You are now permanently totally hairless, the Spell works normally. 
+858	Your left little finger falls off.
+859	You have the knowledge of the universe, answers to all mankind’s questions, the meaning of life, knowledge of the after life, where you left the keys you could never find, etc. But, before you could tell anyone, you forget it all.
+860	A potion appears at your feet…??? (GM’s choice).
+861	You develop “The Clock Work Orange Syndrome”. You suddenly abhor violence in any form. You become violently ill & vomiting dropping to the ground in curled up agony at the mere thought of doing violence or seeing it done. Lasts for 1d6 days.
+862	A random party member's left ear falls off, -1 to CHA.
+863	Spell works normally. 
+864	A random party member finds them self in a “stockade”. Head & hands are locked in the holes. Feet are shackled. HP of 100. STR of 20 to break free. Takes two Actions. 
+865	You age 1d6 years & gain +1 to INT/year aged. Spell works normally.
+866	A random party member's nose falls off, -2 to CHA.
+867	Your Spell hits nearest one to you.
+868	Nothing happens.
+869	You grow another left arm, the Spell works normally. 
+870	All of your left fingers wither into nothingness. –1 DEX.
+871	You grow a fully functional eye in the back of your head. Spell fizzles...
+872	A random party member's right ear falls off, -1 to CHA.
+873	You become cross-eyed for 1d4 weeks. Loose all Strike, Dodge bonuses, the Spell works normally. 
+874	GM’s Choice…………….???????????
+875	“You don’t know Jack”. For 1d6 Rounds you are a total idiot. You loose all your knowledge. Drool & mumble to your self. Walk in circles. You can only Dodge normally.
+876	Something went very, very wrong. You and all party members receive full damage from last spell cast.
+877	Your target and you take full damage from Spell.
+878	Your right hand exchanges places with your left foot.
+879	You feel prettier, +1 to CHA.
+880	The gods are against a random party member. –1d10 to HP, permanent.
+881	Spell fizzles.....
+882	A random party member's left ring finger falls off.
+883	A Raven lands on your shoulder quoting, “Never more…” He asks to become your familiar. Yes?? No??? If no, he flies off.
+884	Roll for Injury.
+885	“Ho, Ho, Ho…..” 1d12 Christmas Trees with various trimmings & lights spring up around you. Spell works normally.
+886	You become aware someone is searching for you. The reason is not clear…????
+887	You and a random party member gain 1 Fate Point.
+888	You’re Critical Hit Range is doubled. (Crit of 20 is now 19-20, 19-20 would become 17-20, etc.)
+889	You feel more confident, +1 to WIS.
+890	Spell fizzles.
+892	A cow comes by asking to be milked. Spell works normal.
+893	A random party member feels…strange. Their armor/clothes/boots feel a little tight the next morning. Does “The Colossal Man” ring a bell??. Will increase in height 1d6 inches/day until a way is found to stop & reverse the process.
+894	Nothing Happens.
+895	Your left ring finger falls off.
+896	A chicken decides to roost on your head for 1d6 days. Can not remove it. When leaves, drops 1d4 eggs on your head. Messy & runny.
+897	You asked for it….You got it…..All party members decrease one level!!!
+898	“Spells, Spells..?? Where are they?” You have forgotten how to use Magic for 1d6 days. After which, all comes back.
+899	Spell acts normally.
+900	You are now have Natural Armor equal to your current AC. Your armor “fused” with you, permanent.
+901	Spell works well. Unfortunately the same Spell also shot out your right ear to hit whoever or whatever is on that side.
+902	A random party member's nose turns to 24 carat gold.
+903	You feel more healthy, +1d6 to HP.
+904	All party member’s weapons disappear for 1d6 minutes.
+905	A major earth elemental decides to rid the world of you. 
+906	Your Spells stop working for 1d6 minutes.
+907	A dog comes up to the nearest person to you and states he is very sorry for defecating in your “Sunday’s Best” clothes. Wets their leg & runs away laughing.
+908	Spell acts normally, however it knocks you out for 1d6 minutes.
+909	Spell does half damage, you take half damage.
+910	Weapon of your choice gains Brutal 2.
+911	“CALL 911…………” A squadron of highly armed Police with vehicles shows up telling all to “Drop your weapons!!” Ambulances & Paramedics along with Fire Vehicles & Fire Fighters. The Police want to take everyone in for “questioning” & sort things out.
+912	Weapon of your choice gains High Crit.
+913	Nothing Happens.
+914	The gods are against you. –1d10 to HP, permanent.
+915	A Tyrannosaurus Rex appears in the middle of your battle. 
+916	A meteor falls on a nearby town & is destroyed. All survivors & relatives blame you. (1d100 times 20 people were killed.) You may not be able to bare this burden. 01-45% of Insanity.
+917	All party members get one Fate Point!!!
+918	Spell does full damage. Unfortunately the entire party takes full damage as well. 
+919	Spell acts normally.
+920	A cave opening appears nearby. A colorfully clad Gnome with a pointy hat is motioning to you, “Come on, hurry up!! This way……I can’t keep it open much longer……Hurry..!!!!” The cave will disappear in 30 seconds.
+921	You feel more vulnerable, -1d6 HP.
+922	Someone or something has decided to hire you for a salary of 5,000 Gold Pieces/month. You will not know for what or by whom until you accept. Could be bad, could be good…….. (GM’s choice.)
+923	A little bearded Gnome appears, says “Howdy” & shakes your hand. He leaves on his merry way laughing & giggling as he goes. When you check, all your money is gone.
+924	1d100 Wererats appear around you. Guess what’s for dinner??
+925	Vulcan, god of fire, appears before you. He hands you a war-hammer he forged himself in the bowls of the Earth. Its unusually light for its size. (5’ handle with 3’ long, 1’x1’ wide head). Says, “I could not let those lesser gods beat me in gift giving. So, here take this & remember me. Olympus is watching you.” He disappears in flames & smoke. Hammer does 2d12+5 Damage. Critical=16-20, +5 to Attack. STR of 20 to wield one-handed.
+926	“Be afraid,………be very afraid…….” Of what or whom???? Roll for Phobia.
+927	All involved in combat, are teleported back to the beginning of the battle. All must re-roll Initiatives. (The battle never took place, starting over new.) Only you know what happened.
+928	Spell acts normally.
+929	All your armor vanishes, you get an immediate free action of your choice. If you choose to leave combat, you can with out taking any damage. If you choose any other action, hope the life insurance is paid up.
+930	Instead of the Spell you cast, playing cards come shooting out from your wrists. Lasts for the rest of the Round. You loose all actions except defend as normal.
+931	You gain an Action Point that only is lost thru actual use of it.
+932	You now have x-ray vision for 1d6 hours.
+933	For the next 1d6 weeks, every time you remove any head gear, a large white rabbit appears from it. It is a normal rabbit. 01-50% Male, 51-100% Female. They will mate and produce offspring normally. Or, you could have rabbit stew any time you wanted. Make rabbit skin jackets, etc.
+934	Spell fizzles.
+935	As you attempted to cast your Spell, a gooey jelly donut appears in your mouth, thus preventing you from speaking the Invocation to activate the Spell. It takes you the rest of the current Round to chew it & swallow it. This does not prevent you from using a weapon of choice at –1 to Attack.
+936	Your very next critical hit does max of all dice and modifiers involved.
+937	You gain 25 pounds, clothing & armor feel a bit snug. –1 to REF & Attks until you see a tailor or loose weight normally.
+936	You get -1 to all Ability scores. Gain one of them back each day starting the next day. Starting with your lowest one. Roll randomly for tie breakers.
+942	A random party member finds a ring in their pocket. When worn it does……??? GM’s choice.
+944	A random party member's skin becomes extremely sensitive to direct sunlight (like vampire’s). Any exposed skin to sunlight will start to burn. 1d6 HP damage/minute of exposure. Lasts 1d12 days.
+945	Streams of colorful ribbons start emitting from your target. If person/creature from their mouth. If object or ground, fountains of colorful ribbons spring up like geysers. All affected or in area, -5 to Dodge & Strike. Spell ends when Round ends.
+946	Spell fizzles………
+947	You loose 25 pounds, clothing & armor feel a bit loose. If no armor, your pants fall down, tripping you. Must make Save vs STR to hold on to weapons. All prone penalties apply until you stand again. Loose all DEX & Attack bonuses & 50% chance you will trip again unless you take one Round action to remove your pants.
+948	Your very next critical hit does no damage.
+949	2d6 White doves appear out of no where from your hands. Spell fizzles....
+950	May repeat 1 random Daily Power in same day once.
+952	A random party member gets one Fate point.
+953	Big purple upright walking dinosaur appears walking among you singing, “I love you, you love me, we are all one happy family…………….” All, friends and foes, forget about each other & immediately take their next Combat Actions to attack this creature until it is dead, once and for all.(NOTE: GM’s Discretion as to HP and AC assigned to this creature. Have fun with it.)
+954	Your right leg falls off. No wound, as if you were never born with it.
+955	You and your entire party exchanges places with the ones you are against. EXAMPLE: If enemy is in vehicles & you are not, now you are in the enemy’s vehicles & their where your were. (NOTE: You, your armor, weapons, & equipment goes with you.)
+956	A random party member was scared “shitless”. Can not defecate for 1d6 weeks. Got that “bloated” feeling???
+957	A Teradacto appears overhead, dives toward your nearest person random & attempts to grab him/her. D30+8 vs REF. Fail = successful grab. STR DC 20. Fail = Teradacto flies off with victim to feed her young. If, any Save is successful, she flies away in search of easier prey. 
+958	Your left middle finger falls off.
+959	A fully equipped armed squad of 6 Coalition Soldiers appear in front of you to do your bidding. Armor: 20 AC, 50 HP. Weapons: Laser Rifle 6d6 damage. Combat Stats: same as caster’s. Go on his Initiative, # of Attacks, Damage, Parry ETC.(Just to keep in simple. Also, no need to re-roll Initiative). Enemy must Save vs Intimidation of 35% when first appear. Fail = Flee the area. Once 10 minutes have passed or combat has ended they disappear. 
+960	Your armor is turned to mirrored glass. Will reflect energy attacks only. All other will shatter it on contact. If no armor, roll again.
+961	Maybe Lady Luck will be with you, Roll twice on this table.
+962	You’re skin becomes extremely sensitive to direct sunlight (like vampires). Any exposed skin to sunlight will start to burn. 1d6 HP damage/minute of exposure. Lasts 1d12 days.
+963	A horde of flies takes a liking to you, maybe you should have bathed after all. You loose all DEX & Attack bonuses as you are covered in a cloud of flies buzzing up to a 1 square radius around you. Lasts 1d6 Rounds.
+964	A random party member's left middle finger falls off.
+965	A little demon appears, shakes your right hand. Walks away with a demonic giggle, chewing on something. You check your hand & one of your entire appendages is missing. Roll 1d10: 1-2 thumb, 3-4 index finger, 5-6 middle finger, 7-8 ring finger, & 9-10 little finger. –2 to Strike if finger is missing when using right hand. Can not hold weapon if thumb is missing.
+966	The gods are against the party. All get –1d4 to HP’s, permanent.
+
+967	An unusual dog like creature comes up to you and wets your right leg. Doing 2d6 acid damage. If no armor, does 1d6 acid damage instead. Will continue to do 4 ongoing damage (save ends) action until washed out with water or for 1d4 Rounds. If eats thru armor or no armor must make Fortitude Save. Fail = hopping around on left leg looking for nearest water source.
+968	A random party member's armor is turned to mirrored glass. Will reflect energy attacks only. All other will shatter it on contact. If no armor, roll again.
+969	“Guys….? Oh Guys…….? Where are you?” You cast your Spell, it goes off normally. You suddenly feel very alone. You look around, all of your comrades are gone. They were teleported 10 miles south of your position (you know where). You are now facing the situation at hand, alone. You will be allowed one free or combat action. If you choose to flee for your life, 50% chance each of your assailants will follow you. (NOTE: Roll for each one left individually. If 3 left roll 3 times, only ones who pass will pursue.)
+970	A random party member's left index finger falls off.
+971	A potion appears at your feet…??? (GM’s choice). 
+972	Your left index finger falls off.
+973	Titan, god of strength, appears before you. He puts his massive arm around your shoulders, gives you a squeeze. He says in a loud booming voice, “I have heard so much about you from the others, I had to come see for my self.” As he gives you a whack on the back, knocking you down. “I like you, but you’re a little weak for my liking.” With that you feel strength rush through your body receiving +5 to STR. “There, that’s better.” He winks & bounds out of site.
+974	A potion appears at a random party member’s feet…??? (GM’s choice).
+975	Your Spell acts as normal. You then remember this is supposed to be your “day off”. A recliner chair with a magic window appears. Along side is table with a tapped keg of your favorite drink. Sandwiches are on the table. Your favorite game is on the magic window with your favorite team playing. You immediately sit down enjoying your self. Every one sees this but for some reason no one is paying any attention to you. (NOTE: person is immune to any and all damage while in the recliner chair.) Lasts 1d8 hours.
+976	You become aware a “Predator” wants your skull & spine for his collection.
+977	“Gone cuckoo??”. For the next 1d6 weeks, every hour on the hour, a Cuckoo Bird ejects from your mouth to “cuckoo” the hour. (Like a Cuckoo Clock) Loose Sneak, Hide, Move Silently, etc. when this happens. Will give away position when sounds.
+978	The target of your spell, dies.
+979	Your right eye turns jet black. Permanent.
+980	A random party member’s right arm & right leg trades places.
+981	You’re left ear grows pointed like an Elf’s, if you are an Elf your left ear grows to double size. Permanent.
+982	Your nose and ass-hole exchanges places. Remove Curse to fix. 12 Horror Factor.
+983	Nothing Happens.
+984	Roll percentile. That’s how much of your money disappears.
+985	An earthquake comes to visit the area surrounding you (300 yards radius, 4-5 on the Richter scale). 
+986	1d100 Raptors (dinosaurs) appears around you. They look very, very hungry……..
+987	Your Torso is now permanently invisible. Any clothing/armor/equipment put on it becomes invisible. Can not be detected by any means. 
+988	Something went very, very wrong. You and all party members receive full damage from last spell cast.
+989	Bad Spell, half damage to target. You take 10 points of damage.
+990	A random party member's left thumb falls off.
+991	Mercury, messengers of the gods, appears before you. “Olympus is in a dizzy over you. Zeus himself sent me with that message.” He states with pride. “And here’s a little something from me.” Your boots light up briefly bright as day, you feel lighter on your feet & faster. +2 to Speed. He winks & flies away.
+992	Spell acts normally.
+993	Lady Luck likes your style & chance taking even when odds are against you. She smiles on you giving you another chance to re-roll on any roll once per day. But you must take the second outcome.
+994	Any and all wounds, curses, negative spells, disease, poisons, etc. are removed from all the party members.
+995	God of Fate, Strikes once again in your behalf. Get 1 Fate Point you can exchanges for immediate resurrection at full strength on all stats. “Now go away”. 
+996	Your left thumb falls off.
+997	Your left ear falls off, -1 to CHA.
+998	Your right hand exchanges places with your right foot.
