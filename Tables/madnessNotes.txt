@@ -1,6 +1,6 @@
 Madness
 
-In a typical campaign, characters aren’t driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
+In a typical campaign, characters aren't driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
 
 
 Going Mad
@@ -20,3 +20,5 @@ Madness can be short-term, long-term, or indefinite. Most relatively mundane eff
 Curing Madness
 
 A Calm Emotions spell can suppress the effects of madness, while a Lesser Restoration spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, Remove Curse or dispel evil might also prove effective. A Greater Restoration spell or more powerful magic is required to rid a character of indefinite madness.
+
+
