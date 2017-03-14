@@ -8,7 +8,7 @@ put a shader on the table list's top/bottom when you can scroll that way.
 color when rollover buttons
 scrolling output label
 add menu bar for help and font sizing. Colors too, why not.
-
+Use different random function on windows. Current one only gives the same ~6 outputs
 
 args:
 	-r (random)  picks a random entry without dice
