@@ -1,13 +1,36 @@
-
-// fast compile/run command: g++ RandPicker.cpp -o test; cp ./test ./lastTest; ./test test.table 6; rm ./test
+/**
+fast compile/run command:
+  g++ RandPicker.cpp -o pickRandom; cp ./pickRandom ./lastTest; ./pickRandom pickRandom.table 6; rm ./pickRandom
+cross-compile command:
+  x86_64-w64-mingw32-g++ -Wall -g -std=c++0x -static-libgcc -static -lpthread -o pickRandom.exe RandPicker.cpp
+**/
 
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>     /* srand, rand, strtol */
 #include <string.h>		/* strcmp */
 #include <time.h>       /* time */
+// #include <chrono>
+#include <sys/time.h>
 
 using namespace std;
+
+/**
+ * From http://stackoverflow.com/questions/322938/recommended-way-to-initialize-srand
+ */
+// unsigned long mix(unsigned long a, unsigned long b, unsigned long c)
+// {
+//     a=a-b;  a=a-c;  a=a^(c >> 13);
+//     b=b-c;  b=b-a;  b=b^(a << 8);
+//     c=c-a;  c=c-b;  c=c^(b >> 13);
+//     a=a-b;  a=a-c;  a=a^(c >> 12);
+//     b=b-c;  b=b-a;  b=b^(a << 16);
+//     c=c-a;  c=c-b;  c=c^(b >> 5);
+//     a=a-b;  a=a-c;  a=a^(c >> 3);
+//     b=b-c;  b=b-a;  b=b^(a << 10);
+//     c=c-a;  c=c-b;  c=c^(b >> 15);
+//     return c;
+// }
 
 int main(int argc, char* argv[]) {
 
@@ -41,7 +64,7 @@ int main(int argc, char* argv[]) {
 	    cout << "Invalid usage." << endl;
 	    return 1;
    	}
-   	//
+
 	ifstream myReadFile;
 	myReadFile.open(argv[1]);
 
@@ -56,8 +79,28 @@ int main(int argc, char* argv[]) {
 	myReadFile.close();
 
   if (! strcmp(argv[2], "-r")) {
-    // srand (time(NULL));
-    srand (clock());
+    struct timeval t1;
+    gettimeofday(&t1, NULL);
+    srand(t1.tv_usec);
+    //    Code used in finding a suitable method of seeding rand(), 
+    //    given that the program could be called multiple times a second.
+    // int init = rand();
+    // unsigned long seed = mix(clock(), time(NULL), rand());
+    // long count[lineCount];
+    // for (int i = 0; i < lineCount; i++) {
+    //   count[i] = 0;
+    // }
+    // for (int i = 0; i < 100000; i++) {
+    //   // srand (mix(clock(), time(NULL), init));
+    //   // cout << t1.tv_usec << "\n";
+    //   gettimeofday(&t1, NULL);
+    //   srand(t1.tv_usec);
+    //   count[rand() % lineCount]++;
+    // }
+    // for (int i = 0; i < lineCount; i++) {
+    //   cout << count[i] << ",";
+    // }
+    // cout << (int)argv[1][0] << " " << entries[rand() % lineCount] << endl;
     cout << entries[rand() % lineCount] << endl;
     return 0;
   }
