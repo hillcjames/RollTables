@@ -19,11 +19,15 @@ args:
 from subprocess import call
 import os
 import json
-import tkinter
-from tkinter import *
+try:
+	import tkinter as tk
+	from tkinter import *
+except:
+	import Tkinter as tk
+	from Tkinter import *
 
 
-class RandProg(tkinter.Tk):
+class RandProg(tk.Tk):
 
 	programName = ""
 
@@ -63,7 +67,7 @@ class RandProg(tkinter.Tk):
 		widget.configure(background = "#" + format(fgCol, '06x'))
 
 	def fillGUI(self):
-		self.root = tkinter.Tk()
+		self.root = tk.Tk()
 
 		self.mainFrame = Frame(self.root, bd = 10)
 		self.setWidgetColorsToDefault(self.mainFrame)
