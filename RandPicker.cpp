@@ -10,7 +10,6 @@ cross-compile command:
 #include <stdlib.h>     /* srand, rand, strtol */
 #include <string.h>		/* strcmp */
 #include <time.h>       /* time */
-// #include <chrono>
 #include <sys/time.h>
 
 using namespace std;
