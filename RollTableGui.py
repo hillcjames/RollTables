@@ -26,6 +26,28 @@ except:
 	import Tkinter as tk
 	from Tkinter import *
 
+class AutoScrollbar(Scrollbar):
+    # a scrollbar that hides itself if it's not needed.  only
+    # works if you use the grid geometry manager.
+    def set(self, lo, hi):
+        if float(lo) <= 0.0 and float(hi) >= 1.0:
+            # grid_remove is currently missing from Tkinter!
+            self.pack_forget()
+            self.master.pack_forget()
+        else:
+            if self.cget("orient") == HORIZONTAL:
+                # self.master.pack(side = BOTTOM, fill=X)
+                self.pack(side=BOTTOM, fill=X, expand=True, anchor="s")
+            else:
+                self.master.pack(side = RIGHT, fill=Y)
+                self.pack(side=RIGHT, fill=Y, expand=True, anchor="e")
+        	# self.master.master.pack_slaves()[0].pack(side = LEFT, fill=BOTH, expand=TRUE)
+        Scrollbar.set(self, lo, hi)
+    def grid(self, **kw):
+        raise (TclError, "cannot use grid with this widget")
+    def place(self, **kw):
+        raise (TclError, "cannot use place with this widget")
+
 
 class RandProg(tk.Tk):
 
@@ -52,8 +74,8 @@ class RandProg(tk.Tk):
 		self.root.mainloop()
 
 	@staticmethod
-	def setWidgetColorsToDefault(widget, invert = False):
-		bgCol = 0xf7d2a3
+	def setWidgetColorsToDefault(widget, invert = False, bgCol = 0xf7d2a3):
+		
 		fgCol = 0xffffff - bgCol
 		
 		if invert:
@@ -66,9 +88,11 @@ class RandProg(tk.Tk):
 			()
 		widget.configure(background = "#" + format(fgCol, '06x'))
 
+
 	def fillGUI(self):
 		self.root = tk.Tk()
 
+		############### start frame creation
 		self.mainFrame = Frame(self.root, bd = 10)
 		self.setWidgetColorsToDefault(self.mainFrame)
 		self.mainFrame.pack(fill = BOTH, expand=YES )
@@ -78,7 +102,7 @@ class RandProg(tk.Tk):
 		self.upperFrame.pack( anchor = N, side = TOP, fill = X, expand=YES )
 
 		self.lowerFrame = Frame(self.mainFrame)
-		self.setWidgetColorsToDefault(self.lowerFrame)
+		self.setWidgetColorsToDefault(self.lowerFrame, bgCol = 0x000000)
 		self.lowerFrame.pack( side = BOTTOM, fill = BOTH, expand=YES )
 
 		self.buttonFrame = Frame(self.upperFrame)
@@ -96,7 +120,9 @@ class RandProg(tk.Tk):
 		self.rollFrame = Frame(self.buttonFrame)
 		self.setWidgetColorsToDefault(self.rollFrame)
 		self.rollFrame.pack(fill = BOTH, expand=YES)
+		############### end frame creation
 
+		############### start buton creation
 		self.diceEntry = Entry(self.rollFrame, width = 3)
 		self.setWidgetColorsToDefault(self.diceEntry, invert = True)
 		self.roll = Button(self.rollFrame, 
@@ -114,7 +140,9 @@ class RandProg(tk.Tk):
 		self.roll.pack(side = LEFT, fill = BOTH, expand=YES)
 		self.diceEntry.pack(side = RIGHT)
 		self.rand.pack(fill = BOTH, expand=YES)
+		############### end button creations
 
+		############### start table list
 		self.tableScrollbar = Scrollbar(self.tableListFrame)
 		self.tableScrollbar.pack(side = RIGHT, fill = Y)
 
@@ -124,25 +152,32 @@ class RandProg(tk.Tk):
 			yscrollcommand = self.tableScrollbar.set)
 		self.setWidgetColorsToDefault(self.tbList)
 
-		index = 1
-		for subdir, dirs, files in os.walk(".."):
+		tempList = []
+		for subdir, dirs, files in os.walk("."):
 		    for file in files:
 		        #print os.path.join(subdir, file)
 		        
 		        filepath = subdir + os.sep + file
 		        if filepath.endswith(".table"):
-		            self.tbList.insert(index, format(index, "02") + "  " + os.path.splitext(file)[0])
-		            index += 1
-		            self.tableList.append(filepath)
+		        	tableName = os.path.splitext(file)[0]
+		        	tempList.append( (tableName[0].upper() + tableName[1:], filepath))
+
+		tempList.sort(key=lambda tup: tup[0].title())
+		index = 1
+		for fileTuple in tempList:
+			self.tbList.insert(index, format(index, "02") + "  " + fileTuple[0])
+			index += 1
+			self.tableList.append(fileTuple[1])
 
 		self.tbList.pack(fill = BOTH, expand = YES)
 		self.tbList.select_set(0)
 		self.tbList.bind('<Return>', self.rollRand)
 
 		self.tableScrollbar.config(command=self.tbList.yview)
+		############### end table list
 
 
-
+		############### start group list
 		# self.groupScrollbar = Scrollbar(self.groupListFrame)
 		# self.groupScrollbar.pack(side = RIGHT, fill = Y)
 
@@ -152,45 +187,57 @@ class RandProg(tk.Tk):
 		# 	yscrollcommand = self.groupScrollbar.set)
 		# self.setWidgetColorsToDefault(self.gpList)
 
-		# index = 1
 		# for subdir, dirs, files in os.walk(".."):
 		#     for file in files:
 		#         #print os.path.join(subdir, file)
 		        
 		#         filepath = subdir + os.sep + file
 		#         if filepath.endswith(".table"):
-		#             self.gpList.insert(index, format(index, "02") + "  " + os.path.splitext(file)[0])
-		#             index += 1
-		#             self.groupList.append(filepath)
+		#         	tempList.append( (os.path.splitext(file)[0], filepath))
+
+		# tempList.sort(key=lambda tup: tup[0])
+		# index = 1
+		# for fileTuple in tempList:
+  #           self.gpList.insert(index, format(index, "02") + "  " + fileTuple[0])
+  #           index += 1
+  #           self.groupList.append(fileTuple[1])
 
 		# self.gpList.pack(fill = BOTH, expand = YES)
 		# self.gpList.select_set(0)
 		# self.gpList.bind('<Return>', self.rollRand)
 
 		# self.groupScrollbar.config(command=self.gpList.yview)
+		############### end group list
 
 
-
-		# self.outputScrollbar = Scrollbar(self.tableListFrame)
-		# self.outputScrollbar.pack(side = RIGHT, fill = Y)
+		############### start output field
+		self.outputScrollFrame = Frame(self.lowerFrame)
+		self.outputScrollFrame.pack(side = RIGHT, fill=Y)
+		self.outputScrollbar = AutoScrollbar(self.outputScrollFrame, orient=VERTICAL)
+		#side = RIGHT, fill = Y)
 
 		# outputText = Text(lowerFrame, wrap = WORD, width = 48, height = 5)
-		self.outputLabelVar = StringVar()
-		self.outputLabelVar.set("Select a table and click \"Rand\" or \"Roll\"")
-		self.outputText = Label( self.lowerFrame, 
-							textvariable=self.outputLabelVar,
+		# self.outputLabelVar = StringVar()
+		# self.outputLabelVar.set("Select a table and click \"Rand\" or \"Roll\"")
+		self.outputText = Text( self.lowerFrame, 
+							# textvariable=self.outputLabelVar,
 							# state='readonly',
-							# relief=RAISED,
-							justify = LEFT, 
-							wraplength = 256,
-							# yscrollcommand = self.tableScrollbar.set, 
-							height = 8)
+							relief="sunken",
+							# justify = LEFT, 
+							wrap = "word",
+							# wraplength = 256,
+							yscrollcommand = self.outputScrollbar.set, 
+							height = 8
+							)
+		self.outputText.insert(INSERT, "Select a table and click \"Rand\" or \"Roll\"")
 		self.setWidgetColorsToDefault(self.outputText)
+		self.outputText.pack(side = LEFT, fill=BOTH, expand=TRUE)
+		
+		self.outputScrollbar.pack()
 
-		self.outputText.pack(side = RIGHT, fill=BOTH, expand = 1)
-
-		# self.outputScrollbar.config(command=self.outputText.yview)
+		self.outputScrollbar.config(command=self.outputText.yview)
 		# print(lowerFrame.winfo_width())
+		############### end output field
 
 
 
@@ -207,9 +254,10 @@ class RandProg(tk.Tk):
 		# data = sys.stdin.read()
 		output = os.popen(progName + " " + fileName + " " +  arg).read()[:-1]
 		print(output)
-		# outputText.delete("1.0", END)
-		# outputText.insert(INSERT, output)
-		self.outputLabelVar.set(output)
+		self.outputText.delete("1.0", END)
+		self.outputText.insert(INSERT, output + output + output + output + output + output)
+		# self.outputLabelVar.set(output)
+		# self.outputText.insert(INSERT, "Select a table and click \"Rand\" or \"Roll\"")
 		# call([progName, fileName, arg])
 		# print(data)
 		print("****")
